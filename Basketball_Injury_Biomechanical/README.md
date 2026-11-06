@@ -26,11 +26,11 @@ The dataset captures multi-dimensional attributes divided into key domains:
 * **Player Demographics:** Age, Height ($cm$), Weight ($kg$), and Player Position (`Guard`, `Forward`, `Center`).
 * **Medical Profile:** Injury Type (e.g., `ACL Tear`, `Ankle Sprain`, `Hamstring Strain`), Severity Level (`Mild`, `Moderate`, `Severe`), Date of Injury, and Historical Injury Count.
 * **Biomechanical Indicators:** High-frequency movement tracking data including:
-  * Knee joint flexion angle ($\text{knee\angle\deg}$)
-  * Ankle dorsiflexion angle ($\text{ankle\flexion\deg}$)
-  * Vertical jump height ($\text{jump\height\cm}$)
-  * Dynamic movement speed ($\text{speed\m\s}$)
-  * Neuromuscular reaction time ($\text{reaction\  time\ms}$)
+  * Knee joint flexion angle ($\text{knee\_angle\_deg}$)
+  * Ankle dorsiflexion angle ($\text{ankle\_flexion\_deg}$)
+  * Vertical jump height ($\text{jump\_height\_cm}$)
+  * Dynamic movement speed ($\text{speed\_m\_s}$)
+  * Neuromuscular reaction time ($\text{reaction\_time\_ms}$)
 * **Rehabilitation Tracking:** Specific rehabilitation protocols, recovery duration ($\text{weeks}$), continuous recovery efficiency scores ($0.0$ to $1.0$), and binary recurrence outcomes ($0$ or $1$).
 
 
@@ -38,10 +38,10 @@ The dataset captures multi-dimensional attributes divided into key domains:
 ## 🚀 Recommended Tasks & Analytics Ideas
 
 1. **Injury Recurrence Prediction (Binary Classification):**
-   * Build ML models (e.g., XGBoost, LightGBM, Random Forest) to predict whether an injury will recur ($\text{Injury\Recurrence} = 1$) using joint kinematics and rehab duration.
+   * Build ML models (e.g., XGBoost, LightGBM, Random Forest) to predict whether an injury will recur ($\text{Injury\_Recurrence} = 1$) using joint kinematics and rehab duration.
 
 2. **Rehabilitation Efficiency Optimization (Regression):**
-   * Predict the continuous variable $\text{Rehabilitation\Efficiency\_Score}$ based on player physical parameters and chosen therapy programs.
+   * Predict the continuous variable $\text{Rehabilitation\_Efficiency\_Score}$ based on player physical parameters and chosen therapy programs.
 
 3. **Biomechanics Clustering & Risk Stratification:**
    * Apply unsupervised techniques (K-Means, Hierarchical Clustering) on joint angles and reaction speeds to categorize players into distinct movement profile risk tiers.
@@ -97,4 +97,3 @@ The dataset captures multi-dimensional attributes divided into key domains:
 If you need to generate a cover image or thumbnail for your Kaggle dataset page, use this prompt:
 
 > **Prompt:** *A high-tech digital illustration of a basketball player in mid-jump on a dark court, featuring holographic biomechanical skeleton overlays, joint angle vectors, motion tracking heatmaps around the knees and ankles, futuristic neon blue and glowing orange data nodes, highly detailed, 4k resolution, cinematic lighting, sleek sports analytics dashboard aesthetic.* -->
-=======
