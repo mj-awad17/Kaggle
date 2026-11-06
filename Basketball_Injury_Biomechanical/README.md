@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basketball Injury & Biomechanical Dataset
 
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/mjwad17)
@@ -97,3 +98,5 @@ The dataset captures multi-dimensional attributes divided into key domains:
 If you need to generate a cover image or thumbnail for your Kaggle dataset page, use this prompt:
 
 > **Prompt:** *A high-tech digital illustration of a basketball player in mid-jump on a dark court, featuring holographic biomechanical skeleton overlays, joint angle vectors, motion tracking heatmaps around the knees and ankles, futuristic neon blue and glowing orange data nodes, highly detailed, 4k resolution, cinematic lighting, sleek sports analytics dashboard aesthetic.* -->
+=======
+>>>>>>> 385d9e10cb4d467240084483fcda1e92e4cab427
