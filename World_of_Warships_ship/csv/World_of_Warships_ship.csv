@@ -1,0 +1,1027 @@
+Id,Ship,URL,Class,Nation,Status,Hit Points(HP),Speed(kn),Concealment(km),Weapons,Weapon_status,Main Guns(km),Torpedoes(km),URL_id
+1,Admiral Ushakov,https://www.twtships.com/ship/4178523600,Battleship,U.S.S.R.,STD,"135,300",30,17.8,97,S+,21.3,,0001
+2,Affondatore,https://www.twtships.com/ship/4283381488,Battleship,Italy,STD,"115,600",30,17.4,97,S+,20.8,,0002
+3,Annapolis,https://www.twtships.com/ship/4178491376,Cruiser,U.S.A.,STD,"51,900",33,13.6,96,S+,16.2,,0003
+4,Clausewitz,https://www.twtships.com/ship/4178491184,Cruiser,Germany,STD,"58,000",32.5,15.8,92,S+,18.5,6,0004
+5,Condé,https://www.twtships.com/ship/4178491216,Cruiser,France,STD,"55,400",34.5,16.1,84,S,19.5,9,0005
+6,Dalarna,https://www.twtships.com/ship/4178457904,Destroyer,Europe,STD,"20,300",36,7.5,92,S+,11.2,15,0006
+7,Devastation,https://www.twtships.com/ship/4178524112,Battleship,United Kingdom,STD,"99,800",30.5,16.2,91,S+,24.5,,0007
+8,Eagle,https://www.twtships.com/ship/4178556880,Aircraft carrier,United Kingdom,STD,"68,700",31,14.5,83,S,,,0008
+9,Edgar,https://www.twtships.com/ship/4178491344,Cruiser,United Kingdom,STD,"49,900",34,11.7,98,S+,16.5,12,0009
+10,Hannover,https://www.twtships.com/ship/4178523952,Battleship,Germany,STD,"126,500",30,18.6,94,S+,21.4,,0010
+11,Jacksonville,https://www.twtships.com/ship/4283348976,Cruiser,U.S.A.,STD,"52,000",34,12.3,99,S+,16.9,,0011
+12,Joshua Humphreys,https://www.twtships.com/ship/4178458608,Destroyer,U.S.A.,STD,"23,700",37.2,7.3,78,A,12.1,16.5,0012
+13,Kunming,https://www.twtships.com/ship/4178457808,Destroyer,Pan-Asia,STD,"20,200",38,7.4,67,B,13.4,,0013
+14,Kurama,https://www.twtships.com/ship/4272862928,Cruiser,Japan,STD,"52,100",35,12.2,90,S+,16.8,12,0014
+15,Maine,https://www.twtships.com/ship/4178524144,Battleship,U.S.A.,STD,"115,100",30.4,17.6,96,S+,24.2,,0015
+16,Novosibirsk,https://www.twtships.com/ship/4178490832,Cruiser,U.S.S.R.,STD,"65,800",34.5,15.7,87,S,19,,0016
+17,Oswald Boelcke,https://www.twtships.com/ship/4178556720,Aircraft carrier,Germany,SPEC,"69,700",30.5,13.9,98,S+,,,0017
+18,Patrie,https://www.twtships.com/ship/4178523984,Battleship,France,STD,"108,900",31,17.3,93,S+,26.6,,0018
+19,Piemonte,https://www.twtships.com/ship/4178491120,Cruiser,Italy,STD,"61,400",37,15.4,94,S+,18.7,13.5,0019
+20,Satsuma,https://www.twtships.com/ship/4178523856,Battleship,Japan,STD,"119,200",27,18,85,S,27,,0020
+21,Sekiryu,https://www.twtships.com/ship/4178556624,Aircraft carrier,Japan,STD,"71,300",35,15.5,98,S+,,,0021
+22,United States,https://www.twtships.com/ship/4178556912,Aircraft carrier,U.S.A.,STD,"78,200",33,15.5,100,S+,,,0022
+23,Yamagiri,https://www.twtships.com/ship/4178458320,Destroyer,Japan,STD,"22,200",39.5,6.9,78,A,12.1,12,0023
+24,Z-57,https://www.twtships.com/ship/4178458416,Destroyer,Germany,SPEC,"22,200",39,7.5,71,A,12.8,12,0024
+25,Zorkiy,https://www.twtships.com/ship/4178458064,Destroyer,U.S.S.R.,STD,"23,600",43,9.7,72,A,12.3,10,0025
+26,20 de Julio,https://www.twtships.com/ship/4284364112,Destroyer,Pan-America,STD,"18,800",32,7.7,75,A,12.7,10,0026
+27,[Audacious],https://www.twtships.com/ship/3340744656,Aircraft carrier,United Kingdom,SPEC,"63,400",32,14.3,82,S,,,0027
+28,[Conqueror],https://www.twtships.com/ship/3340711888,Battleship,United Kingdom,SPEC,"82,900",29.5,15.2,93,S+,24.3,,0028
+29,[Gearing],https://www.twtships.com/ship/3337500656,Destroyer,U.S.A.,SPEC,"19,400",36,7.3,58,B,11.1,10.5,0029
+30,[Grosser Kurfürst],https://www.twtships.com/ship/3340711728,Battleship,Germany,SPEC,"105,800",30,17.6,91,S+,20.6,,0030
+31,[Grozovoi],https://www.twtships.com/ship/3340645840,Destroyer,U.S.S.R.,SPEC,"20,900",39.5,7.4,62,B,12.3,8,0031
+32,[Hakury?],https://www.twtships.com/ship/3333404368,Aircraft carrier,Japan,SPEC,"63,100",34.5,15.2,94,S+,,,0032
+33,[Hindenburg],https://www.twtships.com/ship/3340678960,Cruiser,Germany,SPEC,"51,900",31.5,15.5,87,S,17.8,6,0033
+34,[Midway],https://www.twtships.com/ship/3335501808,Aircraft carrier,U.S.A.,SPEC,"67,600",33,15.4,98,S+,,,0034
+35,[Montana],https://www.twtships.com/ship/3333371888,Battleship,U.S.A.,SPEC,"96,300",30,17.3,90,S+,23.6,,0035
+36,[Moskva],https://www.twtships.com/ship/3340678608,Cruiser,U.S.S.R.,SPEC,"65,400",34.5,17.5,83,S,19.4,,0036
+37,[Shimakaze],https://www.twtships.com/ship/3338548944,Destroyer,Japan,SPEC,"17,900",39,6.9,60,B,11.4,20,0037
+38,[Yamato],https://www.twtships.com/ship/3332323024,Battleship,Japan,SPEC,"97,200",27,17.5,87,S,26.6,,0038
+39,[Za?],https://www.twtships.com/ship/3315513040,Cruiser,Japan,SPEC,"44,900",34.5,12.2,78,A,16.2,8,0039
+40,Admiral Nakhimov,https://www.twtships.com/ship/4179604944,Aircraft carrier,U.S.S.R.,STD,,,,,,,,0040
+41,Admiral Orlov,https://www.twtships.com/ship/3256858064,Aircraft carrier,U.S.S.R.,SPEC,"67,100",31,14.7,93,S+,,,0041
+42,Aki,https://www.twtships.com/ship/3539941072,Battleship,Japan,SPEC,"102,300",27,17.6,100,S+,26.1,,0042
+43,Aki Golden,https://www.twtships.com/ship/3330225872,Battleship,Japan,SPEC,"102,300",27,17.6,100,S+,26.1,,0043
+44,AL Hindenburg,https://www.twtships.com/ship/3361650480,Cruiser,Germany,SPEC,"51,900",31.5,15.5,87,S,17.8,6,0044
+45,AL Shimakaze,https://www.twtships.com/ship/3361617616,Destroyer,Japan,SPEC,"17,900",39,6.9,60,B,11.4,20,0045
+46,AL Shinano,https://www.twtships.com/ship/3330258640,Aircraft carrier,Japan,SPEC,"71,700",27,14.3,83,S,,,0046
+47,Alberico da Barbiano,https://www.twtships.com/ship/3550361328,Destroyer,Italy,SPEC,"32,100",39.6,9.8,62,B,11.4,,0047
+48,Alexander Nevsky,https://www.twtships.com/ship/4074681808,Cruiser,U.S.S.R.,STD,"50,900",36,15.8,83,S,19,8,0048
+49,Almirante Irízar,https://www.twtships.com/ship/3550393680,Cruiser,Pan-America,SPEC,"40,600",32,11.8,77,A,17.8,,0049
+50,Almirante Pérez Gacitúa,https://www.twtships.com/ship/3539940688,Battleship,Pan-America,STD,"68,000",35.2,15.4,89,S,23.3,,0050
+51,Amerigo Vespucci,https://www.twtships.com/ship/3256825584,Battleship,Italy,SPEC,"89,900",29.6,17.3,94,S+,18.9,,0051
+52,Amiral Lartigue,https://www.twtships.com/ship/3529422672,Cruiser,France,SPEC,"63,650",34,16.1,90,S+,21.2,,0052
+53,Archerfish,https://www.twtships.com/ship/3549870064,Submarine,U.S.A.,SPEC,"20,200",33,5.9,29,D,6.5,10.5,0053
+54,ARP Yamato,https://www.twtships.com/ship/3560912592,Battleship,Japan,SPEC,"97,200",27,17.5,87,S,26.6,,0054
+55,Attilio Regolo,https://www.twtships.com/ship/4179506928,Destroyer,Italy,STD,"26,800",41,8.9,51,C,9.6,13.5,0055
+56,Audacious,https://www.twtships.com/ship/4074747856,Aircraft carrier,United Kingdom,STD,"63,400",32,14.3,82,S,,,0056
+57,Austin,https://www.twtships.com/ship/3445536752,Cruiser,U.S.A.,SPEC,"30,700",35,11.5,89,S,15,10.5,0057
+58,BA Arona's Whale,https://www.twtships.com/ship/3434526416,Submarine,Japan,SPEC,"25,600",30,7.1,36,D,10,15,0058
+59,BA Montana,https://www.twtships.com/ship/3435083760,Battleship,U.S.A.,SPEC,"96,300",30,17.3,90,S+,23.6,,0059
+60,Balao,https://www.twtships.com/ship/4074158064,Submarine,U.S.A.,STD,"20,200",30,5.9,37,D,,12,0060
+61,Balao 2,https://www.twtships.com/ship/3340154864,Submarine,U.S.A.,STD,"20,200",30,5.9,45,C,,12,0061
+62,Bourgogne,https://www.twtships.com/ship/3760142160,Battleship,France,SPEC,"74,700",32,16.2,91,S+,24.8,,0062
+63,Bremen,https://www.twtships.com/ship/3539908400,Cruiser,Germany,SPEC,"51,700",32.5,16.2,91,S+,18.1,12,0063
+64,Bremen Golden,https://www.twtships.com/ship/3330193200,Cruiser,Germany,SPEC,"51,700",32.5,16.2,91,S+,18.1,12,0064
+65,Brennus,https://www.twtships.com/ship/3550394192,Cruiser,France,SPEC,"53,300",35,16,90,S+,20.3,9,0065
+66,Brisbane,https://www.twtships.com/ship/3760108912,Cruiser,Commonwealth,SPEC,"43,300",33.5,12.1,94,S+,15.8,13.5,0066
+67,Brisbane B,https://www.twtships.com/ship/3445536112,Cruiser,Commonwealth,SPEC,"43,300",33.5,12.1,94,S+,15.8,13.5,0067
+68,Bungo,https://www.twtships.com/ship/4074714832,Battleship,Japan,STD,"82,800",30,15,91,S+,25,,0068
+69,Burrows,https://www.twtships.com/ship/4252907504,Destroyer,U.S.A.,STD,"23,900",37,8.1,67,B,13.1,10.5,0069
+70,Cassard,https://www.twtships.com/ship/4284364624,Destroyer,France,STD,"20,500",34,7.7,60,B,12.6,13.5,0070
+71,Castilla,https://www.twtships.com/ship/4179539376,Cruiser,Spain,STD,"51,000",37,14.5,83,S,17.1,8,0071
+72,Cerberus,https://www.twtships.com/ship/4284396912,Cruiser,Commonwealth,STD,"47,300",34,12.3,78,A,18,13.5,0072
+73,Châteaurenault,https://www.twtships.com/ship/3550361424,Destroyer,France,SPEC,"26,800",41,7.8,66,B,12.4,20,0073
+74,Colbert,https://www.twtships.com/ship/3760109392,Cruiser,France,SPEC,"36,100",33,12.1,85,S,15,,0074
+75,Comodoro,https://www.twtships.com/ship/3256825168,Battleship,Pan-America,STD,"85,500",30,16,88,S,20.5,,0075
+76,Conqueror,https://www.twtships.com/ship/4179572688,Battleship,United Kingdom,STD,"82,900",29.5,15.2,93,S+,24.3,,0076
+77,Conqueror CLR,https://www.twtships.com/ship/3330226128,Battleship,United Kingdom,SPEC,"82,900",29.5,15.2,93,S+,24.3,,0077
+78,Conte Verde,https://www.twtships.com/ship/3539941104,Battleship,Italy,SPEC,"72,500",35,16.1,86,S,18.9,,0078
+79,Cristoforo Colombo,https://www.twtships.com/ship/4179572464,Battleship,Italy,STD,"89,900",29.6,17.3,94,S+,19.9,,0079
+80,Cumberland,https://www.twtships.com/ship/3445569488,Battleship,United Kingdom,SPEC,"76,800",31.5,16.2,85,S,20.9,,0080
+81,Daring,https://www.twtships.com/ship/4179507152,Destroyer,United Kingdom,STD,"20,800",35,7.4,55,B,12.8,10,0081
+82,Defence,https://www.twtships.com/ship/3445536720,Cruiser,United Kingdom,SPEC,"60,600",33,12.5,90,S+,18.3,10,0082
+83,Delny,https://www.twtships.com/ship/3864933840,Destroyer,U.S.S.R.,STD,"22,700",43.5,9.1,62,B,13.1,10,0083
+84,Des Moines,https://www.twtships.com/ship/4273911792,Cruiser,U.S.A.,STD,"50,600",33,13.4,84,S,15.8,,0084
+85,Druid,https://www.twtships.com/ship/3760076752,Destroyer,United Kingdom,SPEC,"25,300",35,8.2,66,B,12.1,,0085
+86,Elbing,https://www.twtships.com/ship/4074649392,Destroyer,Germany,STD,"30,900",36.2,8,72,A,13.3,13.5,0086
+87,Essex,https://www.twtships.com/ship/4273977328,Aircraft carrier,U.S.A.,STD,"59,500",33,13.5,92,S+,,,0087
+88,Fearmaw,https://www.twtships.com/ship/3330193360,Cruiser,United Kingdom,STD,"41,000",31.5,11.4,70,A,15.3,10,0088
+89,Forrest Sherman,https://www.twtships.com/ship/3655219184,Destroyer,U.S.A.,SPEC,"24,900",33.9,8,58,B,12.6,16.5,0089
+90,Franklin D. Roosevelt,https://www.twtships.com/ship/3760175088,Aircraft carrier,U.S.A.,SPEC,"67,600",33,15.4,95,S+,,,0090
+91,Fuyutsuki,https://www.twtships.com/ship/3550361296,Destroyer,Japan,SPEC,"20,300",33,7.7,58,B,12.4,12,0091
+92,Gato,https://www.twtships.com/ship/3759585264,Submarine,U.S.A.,SPEC,"20,200",34,5.8,61,B,,6,0092
+93,Gda?sk,https://www.twtships.com/ship/4074648880,Destroyer,Europe,STD,"24,400",41.2,9.1,60,B,12,10,0093
+94,Gearing,https://www.twtships.com/ship/4281219056,Destroyer,U.S.A.,STD,"19,400",36,7.3,58,B,11.1,10.5,0094
+95,Georg Hoffmann,https://www.twtships.com/ship/3550361392,Destroyer,Germany,SPEC,"24,500",37.5,7.9,68,B,11.2,12,0095
+96,Georg Hoffmann Golden,https://www.twtships.com/ship/3539875632,Destroyer,Germany,SPEC,"24,500",37.5,7.9,68,B,11.2,12,0096
+97,Gibraltar,https://www.twtships.com/ship/3655251920,Cruiser,United Kingdom,SPEC,"59,400",32,14.1,80,S,16.9,,0097
+98,Goliath,https://www.twtships.com/ship/4074682320,Cruiser,United Kingdom,STD,"58,600",33,13.6,85,S,16.8,10,0098
+99,Gouden Leeuw,https://www.twtships.com/ship/4179539728,Cruiser,Netherlands,STD,"51,900",33.5,12.8,90,S+,16.5,,0099
+100,Grosser Kurfürst,https://www.twtships.com/ship/4179572528,Battleship,Germany,SPEC,"105,800",30,17.6,91,S+,20.6,,0100
+101,Grozovoi,https://www.twtships.com/ship/4074649040,Destroyer,U.S.S.R.,STD,"20,900",39.5,7.4,62,B,12.3,8,0101
+102,Hakury?,https://www.twtships.com/ship/4179605200,Aircraft carrier,Japan,STD,"63,100",34.5,15.2,94,S+,,,0102
+103,Halland,https://www.twtships.com/ship/4179506480,Destroyer,Europe,STD,"19,200",35,7.4,85,S,10.4,15,0103
+104,Harugumo,https://www.twtships.com/ship/4074649296,Destroyer,Japan,STD,"25,600",35.7,7.7,69,B,12.6,12,0104
+105,Hawaii,https://www.twtships.com/ship/3539908592,Cruiser,U.S.A.,SPEC,"71,100",33,15,93,S+,18.3,,0105
+106,Hawaii Golden,https://www.twtships.com/ship/3330193392,Cruiser,U.S.A.,SPEC,"71,100",33,15,93,S+,18.3,,0106
+107,Hayate,https://www.twtships.com/ship/3760076496,Destroyer,Japan,SPEC,"20,800",37,7.5,59,B,11.6,12,0107
+108,Henri IV,https://www.twtships.com/ship/4179539792,Cruiser,France,STD,"53,300",35,16.1,82,S,19.1,9,0108
+109,Hildebrand,https://www.twtships.com/ship/3550394160,Cruiser,Germany,SPEC,"63,650",34,15.5,91,S+,18.5,,0109
+110,Hindenburg,https://www.twtships.com/ship/4179539760,Cruiser,Germany,STD,"51,900",31.5,15.5,87,S,17.8,6,0110
+111,Hull,https://www.twtships.com/ship/3539875824,Destroyer,U.S.A.,SPEC,"24,900",33.9,8,74,A,12.3,16.5,0111
+112,I-56 '44,https://www.twtships.com/ship/3539384016,Submarine,Japan,SPEC,"25,600",30,7.1,36,D,10,15,0112
+113,Incheon,https://www.twtships.com/ship/3550393552,Cruiser,Pan-Asia,SPEC,"48,600",33,13.8,85,S,16.1,,0113
+114,Incheon B,https://www.twtships.com/ship/3340678352,Cruiser,Pan-Asia,SPEC,"48,600",33,13.8,85,S,16.1,,0114
+115,Incomparable,https://www.twtships.com/ship/3655284688,Battleship,United Kingdom,SPEC,"70,000",33,13.1,89,S,17.6,10,0115
+116,Independencia,https://www.twtships.com/ship/3550459216,Aircraft carrier,Pan-America,SPEC,"54,100",25,11.4,78,A,,,0116
+117,Irresistible,https://www.twtships.com/ship/3550426480,Battleship,Commonwealth,SPEC,"76,800",31.5,14.9,85,S,20.4,,0117
+118,Jinan,https://www.twtships.com/ship/4179539152,Cruiser,Pan-Asia,STD,"32,500",35,12.1,89,S,15.5,,0118
+119,Jiuhua,https://www.twtships.com/ship/3550426320,Battleship,Pan-Asia,STD,"84,300",30,16.9,90,S+,20.7,,0119
+120,K-1,https://www.twtships.com/ship/4179015120,Submarine,U.S.S.R.,STD,"19,000",37,6.3,38,D,6,9,0120
+121,Khabarovsk,https://www.twtships.com/ship/4179506640,Destroyer,U.S.S.R.,SPEC,"22,500",43,9.7,62,B,11.2,6,0121
+122,Kitakami,https://www.twtships.com/ship/3655251664,Cruiser,Japan,SPEC,"28,500",36,9.8,100,S+,11.2,12,0122
+123,Kléber,https://www.twtships.com/ship/4179507024,Destroyer,France,STD,"21,900",44,9.6,61,B,13.6,8,0123
+124,Kléber CLR,https://www.twtships.com/ship/3445503824,Destroyer,France,SPEC,"21,900",44,9.6,61,B,13.6,8,0124
+125,Kléber TE,https://www.twtships.com/ship/3435018064,Destroyer,France,STD,"21,900",44,8.3,56,B,8.5,12,0125
+126,Komissar,https://www.twtships.com/ship/3445536208,Cruiser,U.S.S.R.,SPEC,"43,800",35.5,14.2,88,S,17.2,10,0126
+127,Kremlin,https://www.twtships.com/ship/4179572176,Battleship,U.S.S.R.,STD,"108,300",29.5,16.5,90,S+,20.7,,0127
+128,Kushiro,https://www.twtships.com/ship/3539908304,Cruiser,Japan,SPEC,"50,200",34.5,12.7,80,S,17.2,8,0128
+129,La Pampa,https://www.twtships.com/ship/3550360912,Destroyer,Pan-America,SPEC,"18,800",34,7.1,52,C,12.3,10.5,0129
+130,Laffey,https://www.twtships.com/ship/3550361584,Destroyer,U.S.A.,SPEC,"18,500",36.5,7.4,57,B,12.4,8,0130
+131,Latouche-Tréville,https://www.twtships.com/ship/3539908432,Cruiser,France,STD,"66,800",34.5,14.3,84,S,20.1,9,0131
+132,Libertad,https://www.twtships.com/ship/4284429648,Battleship,Pan-America,STD,"85,500",30,16,88,S,20.5,,0132
+133,Louisiana,https://www.twtships.com/ship/4074715120,Battleship,U.S.A.,STD,"96,300",31,16.8,90,S+,22.8,,0133
+134,Lübeck,https://www.twtships.com/ship/3256760112,Destroyer,Germany,SPEC,"30,900",36.2,8,73,A,13.3,13.5,0134
+135,Lüshun,https://www.twtships.com/ship/3760075984,Destroyer,Pan-Asia,SPEC,"20,500",36,7.2,58,B,12.8,,0135
+136,Lüshun B,https://www.twtships.com/ship/3340645584,Destroyer,Pan-Asia,SPEC,"20,500",36,7.2,58,B,12.8,,0136
+137,Malta,https://www.twtships.com/ship/3760175056,Aircraft carrier,United Kingdom,SPEC,"66,600",33.6,15.2,81,S,,,0137
+138,Manfred von Richthofen,https://www.twtships.com/ship/4179605296,Aircraft carrier,Germany,STD,"65,300",32,13.6,94,S+,,,0138
+139,Marceau,https://www.twtships.com/ship/4074649424,Destroyer,France,SPEC,"21,900",44,8.6,62,B,11.5,9,0139
+140,Marseille,https://www.twtships.com/ship/4074682192,Cruiser,France,STD,"66,950",33,14.3,85,S,19.6,,0140
+141,Max Immelmann,https://www.twtships.com/ship/3655317296,Aircraft carrier,Germany,SPEC,"65,300",32,13.6,83,S,,,0141
+142,Mecklenburg,https://www.twtships.com/ship/3655284528,Battleship,Germany,SPEC,"85,800",32.5,17.1,89,S,22,6,0142
+143,Midway,https://www.twtships.com/ship/4179605488,Aircraft carrier,U.S.A.,STD,"67,600",33,15.4,98,S+,,,0143
+144,Minotaur,https://www.twtships.com/ship/4179539920,Cruiser,United Kingdom,STD,"43,300",33.5,11.2,93,S+,15.8,10,0144
+145,Monmouth,https://www.twtships.com/ship/4273911760,Cruiser,United Kingdom,SPEC,"59,400",32,14.1,81,S,19.8,10,0145
+146,Montana,https://www.twtships.com/ship/4277090288,Battleship,U.S.A.,STD,"96,300",30,17.3,90,S+,23.6,,0146
+147,Montana 2,https://www.twtships.com/ship/3330226160,Battleship,U.S.A.,SPEC,"96,300",30,17.3,90,S+,23.6,,0147
+148,Moskva,https://www.twtships.com/ship/4179539408,Cruiser,U.S.S.R.,SPEC,"65,400",34.5,17.5,83,S,19.4,,0148
+149,Napoli,https://www.twtships.com/ship/3760109296,Cruiser,Italy,SPEC,"59,200",35.5,12.8,81,S,16.3,13.5,0149
+150,Napoli B,https://www.twtships.com/ship/3676223216,Cruiser,Italy,SPEC,"59,200",35.5,12.8,81,S,16.3,13.5,0150
+151,Neptunus,https://www.twtships.com/ship/4284430096,Battleship,Netherlands,SPEC,"92,100",36,17,89,S,20.5,,0151
+152,New Jersey,https://www.twtships.com/ship/3518969840,Battleship,U.S.A.,STD,"81,100",35.2,15.9,89,S,23.4,,0152
+153,Ocean,https://www.twtships.com/ship/3550459856,Aircraft carrier,United Kingdom,SPEC,"54,100",25,11.4,69,B,,,0153
+154,Ohio,https://www.twtships.com/ship/3760142320,Battleship,U.S.A.,SPEC,"96,300",28,17.3,93,S+,21.6,,0154
+155,Oregon,https://www.twtships.com/ship/3550427120,Battleship,U.S.A.,STD,"74,100",33,16.4,90,S+,23.5,,0155
+156,Orze?,https://www.twtships.com/ship/3549869360,Submarine,Europe,SPEC,"16,400",32,5.8,39,D,6,10,0156
+157,Otto Lilienthal,https://www.twtships.com/ship/3256858416,Aircraft carrier,Germany,SPEC,"65,300",32,13.6,94,S+,,,0157
+158,Oväsen,https://www.twtships.com/ship/3330159920,Destroyer,Europe,SPEC,"19,200",35,7.6,85,S,11.4,12,0158
+159,Peredovoy,https://www.twtships.com/ship/3550361040,Destroyer,U.S.S.R.,STD,"16,900",42.5,7.6,61,B,12.9,6,0159
+160,Petropavlovsk,https://www.twtships.com/ship/3969824208,Cruiser,U.S.S.R.,STD,"55,800",32.5,16.3,83,S,18.4,,0160
+161,Petrozavodsk,https://www.twtships.com/ship/3256792528,Cruiser,U.S.S.R.,SPEC,"55,800",32.5,15.3,83,S,18.4,,0161
+162,Pietro Calvi,https://www.twtships.com/ship/4179015408,Submarine,Italy,STD,"18,800",29,5.9,30,D,10.5,9,0162
+163,Pioneer,https://www.twtships.com/ship/3550393712,Cruiser,Commonwealth,SPEC,"46,900",34,12.3,74,A,14.5,6,0163
+164,Piñatapolis,https://www.twtships.com/ship/3330258928,Aircraft carrier,U.S.A.,SPEC,"59,500",33,13.5,92,S+,,,0164
+165,Plymouth,https://www.twtships.com/ship/3760109520,Cruiser,United Kingdom,SPEC,"41,000",31.5,11.4,70,A,15.3,10,0165
+166,Preussen,https://www.twtships.com/ship/3969857328,Battleship,Germany,STD,"105,800",30,17.6,95,S+,20.6,,0166
+167,Prins van Oranje Golden,https://www.twtships.com/ship/3539908368,Cruiser,Netherlands,SPEC,"51,900",33.5,13.3,90,S+,18.1,,0167
+168,Prins van Oranje,https://www.twtships.com/ship/3550394128,Cruiser,Netherlands,SPEC,"51,900",33.5,13.3,90,S+,18.1,,0168
+169,Prinz Adalbert,https://www.twtships.com/ship/4284397360,Cruiser,Germany,STD,"63,900",33,14.7,87,S,18.2,9.5,0169
+170,PTRPVLSK,https://www.twtships.com/ship/3330192848,Cruiser,U.S.S.R.,SPEC,"55,800",32.5,16.3,83,S,18.4,,0170
+171,Puerto Rico,https://www.twtships.com/ship/3655251952,Cruiser,U.S.A.,SPEC,"71,650",33.5,16.1,87,S,18.8,,0171
+172,Puerto Rico B,https://www.twtships.com/ship/3340679152,Cruiser,U.S.A.,SPEC,"71,650",33.5,16.1,87,S,18.8,,0172
+173,Ragnar,https://www.twtships.com/ship/3550360880,Destroyer,Europe,SPEC,"26,500",35,9.3,93,S+,13,,0173
+174,Ravenna,https://www.twtships.com/ship/3256792816,Cruiser,Italy,SPEC,"51,800",36.6,15.3,86,S,17.1,13.5,0174
+175,Rhode Island,https://www.twtships.com/ship/3539941360,Battleship,U.S.A.,SPEC,"74,100",33,15.2,90,S+,21,,0175
+176,Rhode Island B,https://www.twtships.com/ship/3319740400,Battleship,U.S.A.,SPEC,"74,100",33,15.2,90,S+,21,,0176
+177,Rodina,https://www.twtships.com/ship/3539940816,Battleship,U.S.S.R.,STD,"104,500",29,17.7,86,S,22.3,,0177
+178,Ruggiero di Lauria,https://www.twtships.com/ship/3760142064,Battleship,Italy,SPEC,"79,200",35,15.2,97,S+,19.3,,0178
+179,République,https://www.twtships.com/ship/4179572560,Battleship,France,STD,"92,400",30,17.5,94,S+,26.1,,0179
+180,Salem,https://www.twtships.com/ship/3550394352,Cruiser,U.S.A.,SPEC,"49,700",33,13.4,82,S,15.8,,0180
+181,San Martín,https://www.twtships.com/ship/4179539280,Cruiser,Pan-America,STD,"49,800",34,11.3,85,S,15.5,10.5,0181
+182,Schlieffen,https://www.twtships.com/ship/3330225968,Battleship,Germany,STD,"76,100",34.1,12.6,80,S,19.8,13.5,0182
+183,Schlieffen,https://www.twtships.com/ship/4074714928,Battleship,Germany,STD,"76,100",34.1,15.6,92,S+,19.8,13.5,0183
+184,Seal,https://www.twtships.com/ship/3549870032,Submarine,United Kingdom,SPEC,"19,200",27,6.1,16,D,6,13,0184
+185,Sete de Setembro,https://www.twtships.com/ship/3550426448,Battleship,Pan-America,SPEC,"76,300",22.8,15.7,84,S,25.3,,0185
+186,Sevastopol,https://www.twtships.com/ship/3550393808,Cruiser,U.S.S.R.,SPEC,"62,600",33.5,13.6,85,S,19.1,,0186
+187,Sharqi,https://www.twtships.com/ship/3340646192,Destroyer,Germany,SPEC,"20,300",37.5,7.5,66,B,12.1,10.5,0187
+188,Shikishima,https://www.twtships.com/ship/3760142032,Battleship,Japan,SPEC,"97,200",27,17.5,87,S,26.6,,0188
+189,Shimakaze,https://www.twtships.com/ship/4282267344,Destroyer,Japan,STD,"17,900",39,6.9,60,B,11.4,20,0189
+190,Shinano,https://www.twtships.com/ship/3550459600,Aircraft carrier,Japan,SPEC,"71,700",27,14.3,83,S,,,0190
+191,Sibir,https://www.twtships.com/ship/3550426576,Battleship,U.S.S.R.,SPEC,"108,300",29.5,16.5,90,S+,19.5,,0191
+192,Sicilia,https://www.twtships.com/ship/3550426864,Battleship,Italy,SPEC,"89,900",29.6,17.3,85,S,18.9,,0192
+193,Slava,https://www.twtships.com/ship/3760141776,Battleship,U.S.S.R.,SPEC,"91,800",29.5,16.2,91,S+,24.7,,0193
+194,Smolensk,https://www.twtships.com/ship/3655251408,Cruiser,U.S.S.R.,SPEC,"32,400",35,12.4,80,S,13.8,8,0194
+195,Smolensk B,https://www.twtships.com/ship/3739137488,Cruiser,U.S.S.R.,SPEC,"32,400",35,12.4,80,S,13.8,8,0195
+196,Småland,https://www.twtships.com/ship/3655218480,Destroyer,Europe,SPEC,"19,200",35,7.6,85,S,11.4,12,0196
+197,Somers,https://www.twtships.com/ship/3760076784,Destroyer,U.S.A.,SPEC,"17,300",38.6,7.2,55,B,11.7,16.5,0197
+198,St. Vincent,https://www.twtships.com/ship/4074715088,Battleship,United Kingdom,STD,"79,400",32.5,16.2,91,S+,20.5,10,0198
+199,Stalingrad,https://www.twtships.com/ship/3760109008,Cruiser,U.S.S.R.,SPEC,"72,450",35,17.6,86,S,20.4,,0199
+200,Surcouf,https://www.twtships.com/ship/3549869904,Submarine,France,SPEC,"31,600",32,5.7,66,B,13.5,12,0200
+201,Svea,https://www.twtships.com/ship/3550393648,Cruiser,Europe,SPEC,"33,600",34,11.5,87,S,15.2,13.5,0201
+202,Södermanland,https://www.twtships.com/ship/3256759600,Destroyer,Europe,SPEC,"19,200",35,7.4,85,S,10.4,15,0202
+203,Süsshofen,https://www.twtships.com/ship/3340744496,Aircraft carrier,Germany,SPEC,"65,300",32,13.6,94,S+,,,0203
+204,Taejong,https://www.twtships.com/ship/3529422032,Cruiser,Pan-Asia,SPEC,"30,700",33,10.5,90,S+,14.7,,0204
+205,Tempesta Nera,https://www.twtships.com/ship/3445569264,Battleship,Italy,SPEC,"79,200",35,15.2,97,S+,19.3,,0205
+206,Thor,https://www.twtships.com/ship/4284429616,Battleship,Europe,STD,"72,700",33,15.6,96,S+,21.7,15,0206
+207,Thrasher,https://www.twtships.com/ship/4179015632,Submarine,United Kingdom,STD,"16,800",26,6.1,22,D,6,11,0207
+208,Thunderer,https://www.twtships.com/ship/3760142288,Battleship,United Kingdom,SPEC,"82,900",29.5,15.2,95,S+,21.5,,0208
+209,Tonijn,https://www.twtships.com/ship/3549869840,Submarine,Netherlands,SPEC,"17,800",25,5.8,27,D,,12,0209
+210,Tromp,https://www.twtships.com/ship/3655218960,Destroyer,Netherlands,SPEC,"24,500",33.5,7.3,65,B,13.3,12,0210
+211,T?gasa,https://www.twtships.com/ship/3529455312,Battleship,Japan,STD,"68,300",29.5,15.1,87,S,21.7,12,0211
+212,U-2501,https://www.twtships.com/ship/4074157872,Submarine,Germany,STD,"18,900",27,5.6,16,D,,14,0212
+213,U-4501,https://www.twtships.com/ship/3759585072,Submarine,Germany,SPEC,"14,100",20,5.4,18,D,,10,0213
+214,Unie,https://www.twtships.com/ship/3529422608,Cruiser,Netherlands,STD,"37,700",35,12.4,95,S+,13.4,,0214
+215,Utah,https://www.twtships.com/ship/3256825840,Battleship,U.S.A.,SPEC,"102,800",23,15.5,93,S+,24.5,,0215
+216,Utrecht,https://www.twtships.com/ship/4284397328,Cruiser,Netherlands,STD,"37,700",35,12,95,S+,17,,0216
+217,Vampire II,https://www.twtships.com/ship/3760076144,Destroyer,Commonwealth,SPEC,"19,800",35,7.2,55,B,12.8,12,0217
+218,Vanadis,https://www.twtships.com/ship/4284396848,Cruiser,Europe,SPEC,"48,200",35,11.7,93,S+,14.7,15,0218
+219,Varese,https://www.twtships.com/ship/3550394096,Cruiser,Italy,STD,"77,100",33,13.5,96,S+,18.4,8,0219
+220,Venezia,https://www.twtships.com/ship/4179539696,Cruiser,Italy,STD,"51,800",36.6,15.3,86,S,17.1,13.5,0220
+221,Vermont,https://www.twtships.com/ship/4179572720,Battleship,U.S.A.,STD,"102,800",23,15.5,89,S,24.5,,0221
+222,Vladimir Monomakh,https://www.twtships.com/ship/3267278288,Cruiser,U.S.S.R.,SPEC,"50,900",36,15.8,93,S+,19,8,0222
+223,Von Zuckerhoff,https://www.twtships.com/ship/3319740208,Battleship,Germany,SPEC,"76,100",34.1,15.6,92,S+,19.8,13.5,0223
+224,Vrijheid,https://www.twtships.com/ship/3256792848,Cruiser,Netherlands,SPEC,"51,900",33.5,12.8,90,S+,16.5,,0224
+225,Werner Voss,https://www.twtships.com/ship/3760174896,Aircraft carrier,Germany,STD,"65,300",32,13.6,94,S+,,,0225
+226,Willem de Eerste,https://www.twtships.com/ship/3550426896,Battleship,Netherlands,SPEC,"75,300",32,15,92,S+,22.2,,0226
+227,Wisconsin,https://www.twtships.com/ship/3529455600,Battleship,U.S.A.,SPEC,"81,100",32.5,15.9,89,S,23.4,,0227
+228,Wisconsin Golden,https://www.twtships.com/ship/3309254640,Battleship,U.S.A.,SPEC,"81,100",32.5,15.9,89,S,23.4,,0228
+229,Worcester,https://www.twtships.com/ship/4074682352,Cruiser,U.S.A.,STD,"45,400",33,12.1,91,S+,16.7,,0229
+230,Yamato,https://www.twtships.com/ship/4276041424,Battleship,Japan,STD,"97,200",27,17.5,87,S,26.6,,0230
+231,Yamato Kai,https://www.twtships.com/ship/3550426832,Battleship,Japan,SPEC,"97,200",27,17.5,87,S,26.6,,0231
+232,Yari,https://www.twtships.com/ship/3550394064,Cruiser,Japan,STD,"44,900",34.5,13,83,S,14.4,13.5,0232
+233,Yodo,https://www.twtships.com/ship/4074682064,Cruiser,Japan,STD,"55,300",34,12.4,87,S,18,15,0233
+234,Yoshino,https://www.twtships.com/ship/3749623504,Cruiser,Japan,SPEC,"61,800",34,14.7,89,S,21.3,12,0234
+235,Yoshino B,https://www.twtships.com/ship/3676223184,Cruiser,Japan,SPEC,"61,800",34,14.7,89,S,21.3,12,0235
+236,Yueyang,https://www.twtships.com/ship/4179506384,Destroyer,Pan-Asia,STD,"18,500",36.5,7.2,57,B,11.9,,0236
+237,Z-42,https://www.twtships.com/ship/3655218992,Destroyer,Germany,SPEC,"19,700",36.5,7.6,63,B,12.6,10,0237
+238,Z-52,https://www.twtships.com/ship/4179506992,Destroyer,Germany,STD,"20,300",37.5,7.5,66,B,12.1,10,0238
+239,Za?,https://www.twtships.com/ship/4259231440,Cruiser,Japan,STD,"44,900",34.5,12.2,79,A,16.2,8,0239
+240,Za? CLR,https://www.twtships.com/ship/3361650384,Cruiser,Japan,SPEC,"44,900",34.5,12.2,79,A,16.2,8,0240
+241,Zhuge Liang,https://www.twtships.com/ship/3539907792,Cruiser,Pan-Asia,SPEC,"66,950",33,14.3,85,S,19.6,,0241
+242,Álvaro de Bazán,https://www.twtships.com/ship/3760076208,Destroyer,Spain,SPEC,"26,600",40,7.7,60,B,12.6,13.5,0242
+243,Aberdeen,https://www.twtships.com/ship/3540957136,Cruiser,United Kingdom,PREM,"39,200",32.5,11.6,83,S,15.8,10,0243
+244,Adatara,https://www.twtships.com/ship/4075763408,Battleship,Japan,STD,"65,400",30,15,88,S,21.8,,0244
+245,Admiral Schröder,https://www.twtships.com/ship/3740186416,Cruiser,Germany,PREM,"59,300",32.5,12.6,88,S,18.4,,0245
+246,Adriatico,https://www.twtships.com/ship/4180555504,Destroyer,Italy,STD,"16,800",39,8.2,48,C,8.6,12,0246
+247,AL Azuma,https://www.twtships.com/ship/3750672080,Cruiser,Japan,PREM,"58,350",34,14.7,86,S,19.1,,0247
+248,AL Kearsarge,https://www.twtships.com/ship/3362732016,Battleship,U.S.A.,PREM,"84,300",30,16.4,85,S,19.6,,0248
+249,AL Marco Polo,https://www.twtships.com/ship/3341760240,Battleship,Italy,PREM,"69,100",32,16.3,93,S+,19,,0249
+250,AL Sov. Rossiya,https://www.twtships.com/ship/3551475152,Battleship,U.S.S.R.,PREM,"80,900",28,16.2,83,S,19.4,,0250
+251,AL Tashkent,https://www.twtships.com/ship/3331208656,Destroyer,U.S.S.R.,PREM,"21,800",42.5,8.9,61,B,12.7,10,0251
+252,AL Ägir,https://www.twtships.com/ship/3352213296,Cruiser,Germany,PREM,"62,850",33.5,14.7,88,S,18.5,6,0252
+253,Alaska,https://www.twtships.com/ship/3760109552,Cruiser,U.S.A.,PREM,"60,800",33,15,86,S,19,,0253
+254,Alaska B,https://www.twtships.com/ship/3666786288,Cruiser,U.S.A.,PREM,"60,800",33,15,86,S,19,,0254
+255,Almirante Oquendo,https://www.twtships.com/ship/3540956592,Cruiser,Spain,PREM,"48,300",36,14,78,A,17.6,8,0255
+256,Alsace,https://www.twtships.com/ship/4180621136,Battleship,France,STD,"69,000",30.4,16.2,86,S,18.4,,0256
+257,Andalucía,https://www.twtships.com/ship/4180587952,Cruiser,Spain,STD,"43,800",36,14.5,79,A,15.2,8,0257
+258,Aragón,https://www.twtships.com/ship/3530470832,Cruiser,Spain,PREM,"48,300",36,14.2,90,S+,18.6,8,0258
+259,Azuma,https://www.twtships.com/ship/3760109264,Cruiser,Japan,PREM,"58,350",34,14.7,86,S,19.1,,0259
+260,Azuma B,https://www.twtships.com/ship/3425613520,Cruiser,Japan,PREM,"58,350",34,14.7,86,S,19.1,,0260
+261,BA Hovercraft,https://www.twtships.com/ship/3436131792,Battleship,U.S.S.R.,PREM,"73,500",29,15,84,S,18.9,,0261
+262,BA Takahashi,https://www.twtships.com/ship/3436099280,Cruiser,Japan,PREM,"49,500",34.5,12.5,80,S,16.5,15,0262
+263,BA Utnapishtim's Ship,https://www.twtships.com/ship/3436099408,Cruiser,France,PREM,"55,300",31.5,14.7,81,S,18.1,,0263
+264,Bajie,https://www.twtships.com/ship/3761190096,Battleship,Pan-Asia,PREM,"78,900",28,16.7,86,S,25.4,,0264
+265,Baotou,https://www.twtships.com/ship/3530470608,Cruiser,Pan-Asia,PREM,"47,200",36,12.8,83,S,17.6,,0265
+266,Barfleur,https://www.twtships.com/ship/3540924368,Destroyer,United Kingdom,PREM,"18,400",34,7.2,61,B,11.6,12,0266
+267,Benham,https://www.twtships.com/ship/3761125360,Destroyer,U.S.A.,PREM,"14,500",36.5,7.3,54,C,12.6,10.5,0267
+268,Bird Cry,https://www.twtships.com/ship/3341760496,Battleship,U.S.A.,PREM,"80,800",33,16.2,87,S,21.6,,0268
+269,Black,https://www.twtships.com/ship/3551410160,Destroyer,U.S.A.,PREM,"17,100",35,7.2,56,B,12.8,13.7,0269
+270,Black B,https://www.twtships.com/ship/3740153840,Destroyer,U.S.A.,PREM,"17,100",35,7.2,56,B,12.8,13.7,0270
+271,Blücher,https://www.twtships.com/ship/3530471216,Cruiser,Germany,PREM,"45,300",32.8,13.8,85,S,18.5,8,0271
+272,Brest,https://www.twtships.com/ship/4075730768,Cruiser,France,STD,"50,100",31.5,14.7,80,S,16.6,,0272
+273,Brindisi,https://www.twtships.com/ship/4180588272,Cruiser,Italy,STD,"40,000",36.7,14.5,83,S,15.6,13.5,0273
+274,Buffalo,https://www.twtships.com/ship/4180588528,Cruiser,U.S.A.,STD,"42,500",33,13.2,78,A,14.4,,0274
+275,B?yskawica '52,https://www.twtships.com/ship/3540923696,Destroyer,Europe,PREM,"16,200",39,8.3,50,C,12.7,10.5,0275
+276,Cambridge,https://www.twtships.com/ship/3540957168,Cruiser,U.S.A.,PREM,"42,700",33,12.2,90,S+,16.1,,0276
+277,Carnot,https://www.twtships.com/ship/3761157968,Cruiser,France,PREM,"66,450",34.5,14.8,83,S,18.6,,0277
+278,Cayuga,https://www.twtships.com/ship/3551409520,Destroyer,Commonwealth,PREM,"16,400",36.5,7.4,52,C,12.1,10,0278
+279,Chao Heng,https://www.twtships.com/ship/3331241168,Cruiser,Pan-Asia,PREM,"39,000",35,12.6,69,B,16.5,10,0279
+280,Chikuma Sh?-G?,https://www.twtships.com/ship/3320755920,Cruiser,Japan,PREM,"38,900",35.5,10.8,73,A,15.7,15,0280
+281,Chikuma II,https://www.twtships.com/ship/3540956880,Cruiser,Japan,PREM,"38,900",35.5,10.8,73,A,15.7,15,0281
+282,Chikuma II Golden,https://www.twtships.com/ship/3530471120,Cruiser,Japan,PREM,"38,900",35.5,10.8,73,A,15.7,15,0282
+283,Christopher,https://www.twtships.com/ship/4253956080,Destroyer,U.S.A.,STD,"16,400",36,7.9,61,B,11.6,10,0283
+284,Chung Mu,https://www.twtships.com/ship/4180554960,Destroyer,Pan-Asia,STD,"14,800",38,7,54,C,11,,0284
+285,Cursed Fang,https://www.twtships.com/ship/3341727696,Cruiser,United Kingdom,PREM,"44,900",33.5,12.8,87,S,16.5,10,0285
+286,Daisen,https://www.twtships.com/ship/3729733328,Battleship,Japan,PREM,"69,300",35,16.5,89,S,20.6,10,0286
+287,Dalian,https://www.twtships.com/ship/3761157328,Cruiser,Pan-Asia,PREM,"27,400",33.4,11,78,A,14.1,10,0287
+288,Dark Corsair,https://www.twtships.com/ship/3341760336,Battleship,France,STD,"69,000",30,15.9,89,S,24.5,,0288
+289,Delaware,https://www.twtships.com/ship/4075763696,Battleship,U.S.A.,STD,"69,900",33,16.2,84,S,19.6,,0289
+290,Dmitri Donskoi,https://www.twtships.com/ship/4180587984,Cruiser,U.S.S.R.,STD,"40,200",36,15.5,75,A,16.2,8,0290
+291,Drake,https://www.twtships.com/ship/4075730896,Cruiser,United Kingdom,STD,"40,100",33.3,12.8,82,S,14.4,10,0291
+292,Duncan,https://www.twtships.com/ship/4075763664,Battleship,United Kingdom,STD,"66,900",32,14.9,88,S,17.9,10,0292
+293,Eenhoorn,https://www.twtships.com/ship/4274992912,Battleship,Netherlands,SPEC,"73,500",35,16.4,83,S,17.9,,0293
+294,Encounter,https://www.twtships.com/ship/4274959728,Cruiser,Commonwealth,STD,"37,300",33,13,75,A,15,13.5,0294
+295,Felix Schultz,https://www.twtships.com/ship/4075697968,Destroyer,Germany,STD,"24,100",37.5,7.9,63,B,11.4,12,0295
+296,Ferrante Gonzaga,https://www.twtships.com/ship/3540956912,Cruiser,Italy,PREM,"34,100",35,11,68,B,13.8,10,0296
+297,Fletcher,https://www.twtships.com/ship/4272830448,Destroyer,U.S.A.,STD,"13,900",36.5,7.2,55,B,11.8,9.2,0297
+298,Fort Worth,https://www.twtships.com/ship/3530471408,Cruiser,U.S.A.,PREM,"60,800",35,15.6,83,S,18.6,9.2,0298
+299,Fort Worth Golden,https://www.twtships.com/ship/3341727728,Cruiser,U.S.A.,PREM,"60,800",35,15.6,83,S,18.6,9.2,0299
+300,Frank Friday,https://www.twtships.com/ship/3352180720,Destroyer,U.S.A.,STD,"17,100",38,7.2,57,B,12.5,13.5,0300
+301,Friedrich Carl,https://www.twtships.com/ship/3540989744,Battleship,Germany,PREM,"63,700",32,16.2,89,S,20.8,,0301
+302,Friedrich der Grosse,https://www.twtships.com/ship/4180621104,Battleship,Germany,STD,"72,500",27.3,16.8,91,S+,18.5,,0302
+303,Friesland,https://www.twtships.com/ship/3760076080,Destroyer,Europe,PREM,"17,600",36,7.9,80,S,12.3,,0303
+304,Georgia,https://www.twtships.com/ship/3530504176,Battleship,U.S.A.,PREM,"74,100",33,16.4,87,S,20,,0304
+305,Giuseppe Verdi,https://www.twtships.com/ship/3750704880,Battleship,Italy,PREM,"69,100",32,16.3,86,S,19.1,,0305
+306,GQ Johnny,https://www.twtships.com/ship/3436066800,Destroyer,U.S.A.,PREM,"17,100",38,7.2,57,B,12.5,13.5,0306
+307,Groningen,https://www.twtships.com/ship/3761125136,Destroyer,Netherlands,PREM,"17,600",36,7.9,80,S,12.3,,0307
+308,Gustav den Store,https://www.twtships.com/ship/4274992432,Battleship,Europe,STD,"56,600",31,14.1,88,S,18.9,15,0308
+309,Halcón,https://www.twtships.com/ship/3540923824,Destroyer,Spain,STD,"14,700",34,7.1,46,C,12.7,8,0309
+310,Halford,https://www.twtships.com/ship/3750639600,Destroyer,U.S.A.,PREM,"17,100",38,7.5,71,A,12.1,13.5,0310
+311,Hector,https://www.twtships.com/ship/3761157488,Cruiser,Commonwealth,PREM,"34,400",34,11.6,67,B,15.6,12,0311
+312,Hizen,https://www.twtships.com/ship/3750704848,Battleship,Japan,PREM,"75,900",28.2,16.9,85,S,20.3,,0312
+313,Hotaka,https://www.twtships.com/ship/3540989648,Battleship,Japan,STD,"71,100",30,15,87,S,21.8,,0313
+314,Ibuki,https://www.twtships.com/ship/4282300112,Cruiser,Japan,STD,"35,100",35,12.2,76,A,15,10,0314
+315,Illinois,https://www.twtships.com/ship/3729733616,Battleship,U.S.A.,PREM,"68,100",32.5,15.9,90,S+,18.5,,0315
+316,Indiana,https://www.twtships.com/ship/3540989936,Battleship,U.S.A.,PREM,"64,700",27.5,15.3,87,S,18.8,,0316
+317,Iowa,https://www.twtships.com/ship/4276041712,Battleship,U.S.A.,STD,"68,100",28.8,15.7,86,S,21.2,,0317
+318,Iowa 2,https://www.twtships.com/ship/3331274736,Battleship,U.S.A.,SPEC,"79,000",33,15.7,89,S,23.4,,0318
+319,Iwami,https://www.twtships.com/ship/3740219088,Battleship,Japan,PREM,"80,700",28.2,15.9,89,S,22.3,20,0319
+320,Iwami B,https://www.twtships.com/ship/3708761808,Battleship,Japan,PREM,"80,700",28.2,15.9,89,S,22.3,20,0320
+321,Izumo,https://www.twtships.com/ship/4272895696,Battleship,Japan,STD,"76,500",27.2,16.7,86,S,19.7,,0321
+322,Jean Bart,https://www.twtships.com/ship/3751753552,Battleship,France,PREM,"69,000",30,15.9,89,S,24.5,,0322
+323,Jean Bart B,https://www.twtships.com/ship/3666818896,Battleship,France,PREM,"69,000",30,15.9,89,S,24.5,,0323
+324,Johan de Witt,https://www.twtships.com/ship/4180588304,Cruiser,Netherlands,STD,"42,100",32.1,12.3,77,A,14.6,,0324
+325,Johnston,https://www.twtships.com/ship/3540924400,Destroyer,U.S.A.,PREM,"17,100",38,7.2,57,B,12.5,13.5,0325
+326,Jutland,https://www.twtships.com/ship/4180555728,Destroyer,United Kingdom,STD,"14,800",34,7,53,C,11.4,10,0326
+327,Jäger,https://www.twtships.com/ship/3750638896,Destroyer,Europe,PREM,"15,900",37,6.7,54,C,9.5,12,0327
+328,Karl XIV Johan B,https://www.twtships.com/ship/3341759792,Battleship,Europe,PREM,"72,900",30.5,13,88,S,19.1,13.5,0328
+329,Karl XIV Johan,https://www.twtships.com/ship/3761190192,Battleship,Europe,PREM,"72,900",30.5,13,88,S,19.1,13.5,0329
+330,Kearsarge,https://www.twtships.com/ship/3750705136,Battleship,U.S.A.,PREM,"84,300",30,16.4,85,S,19.6,,0330
+331,Kearsarge B,https://www.twtships.com/ship/3666819056,Battleship,U.S.A.,PREM,"84,300",30,16.4,85,S,19.6,,0331
+332,Kitakaze,https://www.twtships.com/ship/4065212112,Destroyer,Japan,STD,"16,200",36,7.5,59,B,11.3,10,0332
+333,Kozma Minin,https://www.twtships.com/ship/3540956624,Cruiser,U.S.S.R.,PREM,"43,400",36,15.5,85,S,18.5,6,0333
+334,Kronshtadt,https://www.twtships.com/ship/3761157584,Cruiser,U.S.S.R.,PREM,"71,050",33.5,15.7,85,S,18.2,,0334
+335,La Spezia,https://www.twtships.com/ship/3519985392,Cruiser,Italy,PREM,"44,800",36.7,15,91,S+,18.8,13.5,0335
+336,Lambros Katsonis,https://www.twtships.com/ship/4075697456,Destroyer,Europe,STD,"17,300",38,8.9,46,C,10.4,10,0336
+337,Le Havre,https://www.twtships.com/ship/3540957008,Cruiser,France,PREM,"55,300",31.5,14.7,81,S,18.1,,0337
+338,Lepanto,https://www.twtships.com/ship/4180621040,Battleship,Italy,STD,"72,100",29.5,16.6,94,S+,17.3,,0338
+339,Lion,https://www.twtships.com/ship/4180621264,Battleship,United Kingdom,STD,"58,600",28,14.8,88,S,19.2,,0339
+340,Los Andes,https://www.twtships.com/ship/4274992464,Battleship,Pan-America,STD,"65,800",30,15.8,84,S,17.8,,0340
+341,Louchuan,https://www.twtships.com/ship/3729732816,Battleship,Pan-Asia,PREM,"67,900",29.5,14.8,90,S+,21.1,,0341
+342,Mahtaga,https://www.twtships.com/ship/3341759952,Battleship,U.S.S.R.,PREM,"69,400",27.5,14.9,87,S,20.8,,0342
+343,Manteuffel,https://www.twtships.com/ship/4274960176,Cruiser,Germany,STD,"54,950",32.5,14.5,84,S,16,9.5,0343
+344,Marco Polo,https://www.twtships.com/ship/3761190640,Battleship,Italy,PREM,"69,100",32,16.3,93,S+,19,,0344
+345,Marlborough,https://www.twtships.com/ship/3761190864,Battleship,United Kingdom,PREM,"76,800",31.5,14.9,89,S,20.9,,0345
+346,Marlborough B,https://www.twtships.com/ship/3341760464,Battleship,United Kingdom,PREM,"76,800",31.5,14.9,89,S,20.9,,0346
+347,Mengchong,https://www.twtships.com/ship/3740185808,Cruiser,Pan-Asia,PREM,"62,850",33.5,14.7,88,S,18.5,6,0347
+348,Menno van Coehoorn,https://www.twtships.com/ship/4274960144,Cruiser,Netherlands,STD,"30,600",34,11.8,89,S,15,,0348
+349,Messina,https://www.twtships.com/ship/3530471152,Cruiser,Italy,PREM,"43,600",37,14,84,S,16.8,8,0349
+350,Michelangelo,https://www.twtships.com/ship/3750672112,Cruiser,Italy,PREM,"66,100",33,13.5,96,S+,17,8,0350
+351,Minegumo,https://www.twtships.com/ship/3540924112,Destroyer,Japan,PREM,"15,100",35,6.6,54,C,10.9,15,0351
+352,Minnesota,https://www.twtships.com/ship/4180621296,Battleship,U.S.A.,STD,"69,500",23,15.9,83,S,21.2,,0352
+353,Missouri,https://www.twtships.com/ship/3761190896,Battleship,U.S.A.,PREM,"78,300",33,15.7,89,S,23.4,,0353
+354,Mogador,https://www.twtships.com/ship/4180555600,Destroyer,France,STD,"16,900",43.5,9.3,59,B,11.6,8,0354
+355,Musashi,https://www.twtships.com/ship/3761190608,Battleship,Japan,PREM,"97,300",27,17.5,86,S,26.5,,0355
+356,Nanning,https://www.twtships.com/ship/3540923600,Destroyer,Pan-Asia,PREM,"20,500",37,7.6,60,B,11.8,12,0356
+357,Navarin,https://www.twtships.com/ship/3761190352,Battleship,U.S.S.R.,PREM,"69,400",27.5,14.9,87,S,20.8,,0357
+358,Neptune,https://www.twtships.com/ship/4180588496,Cruiser,United Kingdom,STD,"39,900",33.5,12.8,85,S,15,10,0358
+359,Neustrashimy,https://www.twtships.com/ship/3551409616,Destroyer,U.S.S.R.,PREM,"20,500",36,6.9,57,B,12.8,10,0359
+360,Neustrashimy B,https://www.twtships.com/ship/3341694416,Destroyer,U.S.S.R.,PREM,"20,500",36,6.9,57,B,12.8,10,0360
+361,Niord,https://www.twtships.com/ship/3540989232,Battleship,Europe,PREM,"63,900",32,15.1,94,S+,21.4,15,0361
+362,Nueva Esparta,https://www.twtships.com/ship/4274926928,Destroyer,Pan-America,STD,"15,800",34.5,7.6,60,B,11.3,10,0362
+363,Orage,https://www.twtships.com/ship/4274927440,Destroyer,France,STD,"16,400",34,7.4,58,B,11,11,0363
+364,Paolo Emilio,https://www.twtships.com/ship/3761125104,Destroyer,Italy,PREM,"24,400",43.5,8.8,49,C,11.3,6,0364
+365,Pilus Posterior,https://www.twtships.com/ship/3540989680,Battleship,Italy,PREM,"69,100",32,16.3,86,S,19.1,,0365
+366,Pilus Prior,https://www.twtships.com/ship/3551475440,Battleship,Italy,PREM,"69,100",32,16.3,93,S+,19,,0366
+367,Pommern,https://www.twtships.com/ship/3761190704,Battleship,Germany,PREM,"81,900",31,16.8,88,S,21.3,6,0367
+368,Pommern B,https://www.twtships.com/ship/3666818864,Battleship,Germany,PREM,"81,900",31,16.8,88,S,21.3,6,0368
+369,Prinz Rupprecht,https://www.twtships.com/ship/4075763504,Battleship,Germany,STD,"59,200",32,15.1,87,S,17.1,12,0369
+370,Prinz Sigismund,https://www.twtships.com/ship/3257874224,Battleship,Germany,STD,"63,900",33.5,15.1,91,S+,21.4,15,0370
+371,Red Hare,https://www.twtships.com/ship/3530437840,Destroyer,Pan-Asia,PREM,"20,200",43.5,9.3,60,B,12.8,8,0371
+372,Respublika,https://www.twtships.com/ship/3530503632,Battleship,U.S.S.R.,STD,"75,900",31,17.3,86,S,18.9,,0372
+373,Riga,https://www.twtships.com/ship/4075730384,Cruiser,U.S.S.R.,STD,"47,300",33.5,14.9,77,A,16.4,,0373
+374,Roon,https://www.twtships.com/ship/4180588336,Cruiser,Germany,STD,"43,400",32.5,14,79,A,16.2,6,0374
+375,Roon CLR,https://www.twtships.com/ship/3446585136,Cruiser,Germany,PREM,"49,500",32.5,14,84,S,17.8,6,0375
+376,Roussillon,https://www.twtships.com/ship/3551475536,Battleship,France,PREM,"69,000",32,16.2,86,S,23.4,,0376
+377,Saint-Louis,https://www.twtships.com/ship/4180588368,Cruiser,France,STD,"38,800",33,14.5,79,A,16.7,9,0377
+378,Santander,https://www.twtships.com/ship/4180587856,Cruiser,Pan-America,STD,"40,200",33,12.7,74,A,13.8,10.5,0378
+379,Scarlet Thunder,https://www.twtships.com/ship/3656333264,Battleship,United Kingdom,PREM,"75,200",32,15.1,92,S+,22.2,,0379
+380,Seattle,https://www.twtships.com/ship/4075730928,Cruiser,U.S.A.,STD,"41,800",33,11.9,76,A,14.3,,0380
+381,Sejong,https://www.twtships.com/ship/4180587728,Cruiser,Pan-Asia,STD,"28,800",33,12,80,S,13.6,,0381
+382,Siegfried,https://www.twtships.com/ship/3761157936,Cruiser,Germany,PREM,"62,850",33.5,14.7,86,S,20.6,6,0382
+383,Somme,https://www.twtships.com/ship/3750639568,Destroyer,United Kingdom,PREM,"18,400",34,7,55,B,12.5,10,0383
+384,Sovetskaya Rossiya,https://www.twtships.com/ship/3520017872,Battleship,U.S.S.R.,PREM,"80,900",28,16.2,83,S,19.4,,0384
+385,Sovetsky Soyuz,https://www.twtships.com/ship/4180620752,Battleship,U.S.S.R.,STD,"80,900",28,16.2,86,S,17.6,,0385
+386,STAR Kitakaze,https://www.twtships.com/ship/3362666192,Destroyer,Japan,PREM,"20,700",36,7.5,66,B,12.5,8,0386
+387,Sun Yat-Sen,https://www.twtships.com/ship/3740218576,Battleship,Pan-Asia,PREM,"80,900",28,16.7,89,S,19.2,,0387
+388,Suzuya,https://www.twtships.com/ship/3519985360,Cruiser,Japan,PREM,"39,000",35,12.6,69,B,16.5,10,0388
+389,Suzuya Golden,https://www.twtships.com/ship/3509499600,Cruiser,Japan,PREM,"39,000",35,12.6,69,B,16.5,10,0389
+390,Suzuya VL,https://www.twtships.com/ship/3499013840,Cruiser,Japan,PREM,"39,000",35,12.6,69,B,16.5,10,0390
+391,Taihang,https://www.twtships.com/ship/3551474896,Battleship,Pan-Asia,PREM,"80,700",28.2,16.9,85,S,23.1,,0391
+392,Takahashi,https://www.twtships.com/ship/4075730640,Cruiser,Japan,STD,"43,400",34.5,12.5,74,A,15,15,0392
+393,Tashkent,https://www.twtships.com/ship/3865982416,Destroyer,U.S.S.R.,STD,"16,700",42.5,8.9,57,B,11.5,8,0393
+394,Tianjin,https://www.twtships.com/ship/3540956368,Cruiser,Pan-Asia,PREM,"50,500",33.5,14.9,80,S,19.3,,0394
+395,Tirfing,https://www.twtships.com/ship/4274959664,Cruiser,Europe,SPEC,"37,100",34,11.3,71,A,13,13.5,0395
+396,Triunfante,https://www.twtships.com/ship/3551475120,Battleship,Spain,PREM,"79,400",32.5,16.8,90,S+,19,,0396
+397,Tsurugi,https://www.twtships.com/ship/3719247568,Battleship,Japan,PREM,"69,700",35,14.1,90,S+,23,,0397
+398,Tulsa,https://www.twtships.com/ship/3750672368,Cruiser,U.S.A.,PREM,"42,700",33,11.7,80,S,14.9,,0398
+399,Udaloi,https://www.twtships.com/ship/4182652368,Destroyer,U.S.S.R.,STD,"16,000",40,8.9,60,B,11,8,0399
+400,Vallejo,https://www.twtships.com/ship/3761158128,Cruiser,U.S.A.,PREM,"44,000",32.5,11.5,86,S,15.7,,0400
+401,Valparaíso,https://www.twtships.com/ship/3540989264,Battleship,Pan-America,PREM,"71,600",30,15.6,84,S,18.7,,0401
+402,Van Speijk,https://www.twtships.com/ship/3761157904,Cruiser,Netherlands,PREM,"47,300",32.5,12.1,89,S,15.6,,0402
+403,Velos,https://www.twtships.com/ship/3761124656,Destroyer,Europe,PREM,"17,100",38,7.1,55,B,12.1,10.5,0403
+404,Victoria,https://www.twtships.com/ship/3540989360,Battleship,Spain,PREM,"64,800",30,14.5,88,S,23.9,,0404
+405,Victoria B,https://www.twtships.com/ship/3331274160,Battleship,Spain,PREM,"64,800",30,14.5,88,S,23.9,,0405
+406,Vyazma,https://www.twtships.com/ship/3551442384,Cruiser,U.S.S.R.,STD,"64,200",31.6,16.9,85,S,20.9,,0406
+407,Wujing,https://www.twtships.com/ship/3750704336,Battleship,Pan-Asia,PREM,"74,700",32,16.2,88,S,20.3,,0407
+408,Xuan Ming,https://www.twtships.com/ship/3341759696,Battleship,Pan-Asia,PREM,"80,900",28,16.7,89,S,19.2,,0408
+409,Xuan Wu,https://www.twtships.com/ship/3552523472,Battleship,Pan-Asia,PREM,"79,000",33,15.7,89,S,23.3,,0409
+410,Yimeng,https://www.twtships.com/ship/3540989136,Battleship,Pan-Asia,PREM,"73,500",29,16.7,84,S,18.6,,0410
+411,Y?gumo,https://www.twtships.com/ship/4075697872,Destroyer,Japan,STD,"13,900",35.5,6.8,55,B,10.9,10,0411
+412,Z-44,https://www.twtships.com/ship/3750639408,Destroyer,Germany,PREM,"19,400",36.5,7,56,B,11.1,12,0412
+413,Z-46,https://www.twtships.com/ship/4180555568,Destroyer,Germany,STD,"16,200",37.5,7.3,59,B,10,9.5,0413
+414,Zarya Svobody,https://www.twtships.com/ship/3540989392,Battleship,U.S.S.R.,PREM,"73,500",29,15,84,S,18.9,,0414
+415,ZF-6,https://www.twtships.com/ship/3740153648,Destroyer,Germany,PREM,"17,000",35,7.2,59,B,11.9,8,0415
+416,ZF-6 Golden,https://www.twtships.com/ship/3551409968,Destroyer,Germany,PREM,"17,000",35,7.2,59,B,11.9,8,0416
+417,ZH-1,https://www.twtships.com/ship/3540924208,Destroyer,Germany,PREM,"14,600",37.5,7.2,58,B,11.9,10,0417
+418,Ägir,https://www.twtships.com/ship/3750672176,Cruiser,Germany,PREM,"62,850",33.5,14.7,88,S,18.5,6,0418
+419,Östergötland,https://www.twtships.com/ship/4180555056,Destroyer,Europe,STD,"14,100",35,7.4,54,C,9.3,12,0419
+420,?ta,https://www.twtships.com/ship/3488528080,Cruiser,Japan,STD,"30,700",37.5,11.5,61,B,13.5,10,0420
+421,Admiraal,https://www.twtships.com/ship/3258890000,Cruiser,Netherlands,STD,"33,800",32,11.5,88,S,15.9,,0421
+422,Admiral Hipper,https://www.twtships.com/ship/4181636912,Cruiser,Germany,STD,"37,300",32,13.8,82,S,16.1,6,0422
+423,Akagi,https://www.twtships.com/ship/3542070992,Aircraft carrier,Japan,STD,"55,200",31.3,12.7,61,B,,,0423
+424,Akizuki,https://www.twtships.com/ship/4181604048,Destroyer,Japan,STD,"15,900",33,7.5,55,B,11.3,10,0424
+425,AL Bismarck,https://www.twtships.com/ship/3353294640,Battleship,Germany,PREM,"69,200",31,15.9,89,S,21.2,,0425
+426,AL Cheshire,https://www.twtships.com/ship/3709777872,Cruiser,United Kingdom,PREM,"42,500",34,11.7,86,S,16.1,8,0426
+427,AL Harbin,https://www.twtships.com/ship/3332289744,Cruiser,Pan-Asia,PREM,"26,500",33.4,11.7,70,A,14.5,,0427
+428,AL Hornet,https://www.twtships.com/ship/3353327600,Aircraft carrier,U.S.A.,PREM,"50,000",32.5,13.8,63,B,,,0428
+429,AL Littorio,https://www.twtships.com/ship/3552524016,Battleship,Italy,PREM,"65,400",30,14.5,85,S,18.1,,0429
+430,AL Massachusetts,https://www.twtships.com/ship/3332323312,Battleship,U.S.A.,PREM,"66,300",27.5,16.1,87,S,18.3,,0430
+431,AL Montpelier,https://www.twtships.com/ship/3542005744,Cruiser,U.S.A.,PREM,"37,500",32.5,11.5,77,A,15.6,,0431
+432,AL Richelieu,https://www.twtships.com/ship/3342808912,Battleship,France,PREM,"63,700",32,16.2,86,S,25.3,,0432
+433,AL Yukikaze,https://www.twtships.com/ship/3541972688,Destroyer,Japan,PREM,"15,100",35,6.6,52,C,9.4,8,0433
+434,Alabama,https://www.twtships.com/ship/3762239472,Battleship,U.S.A.,PREM,"63,300",27.5,15.7,86,S,21.1,,0434
+435,Alabama B,https://www.twtships.com/ship/3437180912,Battleship,U.S.A.,PREM,"63,300",27.5,15.7,86,S,21.1,,0435
+436,Alabama ST,https://www.twtships.com/ship/3552524272,Battleship,U.S.A.,PREM,"63,300",27.5,15.7,86,S,21.1,,0436
+437,Alabama VL,https://www.twtships.com/ship/3741267952,Battleship,U.S.A.,PREM,"63,300",27.5,15.7,86,S,21.1,,0437
+438,Albemarle,https://www.twtships.com/ship/4076779472,Cruiser,United Kingdom,STD,"39,400",33,12.1,77,A,14.3,10,0438
+439,Alliance,https://www.twtships.com/ship/3761682384,Submarine,United Kingdom,PREM,"15,400",31,5.7,18,D,,10,0439
+440,Almirante Grau,https://www.twtships.com/ship/3762206032,Cruiser,Pan-America,PREM,"33,900",32,11.9,92,S+,16.1,,0440
+441,Amagi,https://www.twtships.com/ship/4281284304,Battleship,Japan,STD,"59,300",28.1,16.8,86,S,18.1,,0441
+442,Amalfi,https://www.twtships.com/ship/4181636848,Cruiser,Italy,STD,"38,500",37,14,84,S,14.7,12,0442
+443,Anchorage,https://www.twtships.com/ship/3751720944,Cruiser,U.S.A.,PREM,"41,800",33,13.2,73,A,15.6,10.5,0443
+444,Anhalt,https://www.twtships.com/ship/3741267760,Battleship,Germany,PREM,"69,500",25,15,83,S,21.1,6,0444
+445,Aquila,https://www.twtships.com/ship/3762271984,Aircraft carrier,Italy,PREM,"51,100",30,13.4,65,B,,,0445
+446,ARP Maya,https://www.twtships.com/ship/3542005456,Cruiser,Japan,PREM,"40,100",35.5,11.5,74,A,15.8,10,0446
+447,ARP Takao,https://www.twtships.com/ship/3552491216,Cruiser,Japan,PREM,"40,100",35.5,11.5,74,A,15.8,10,0447
+448,Asashio,https://www.twtships.com/ship/3751687888,Destroyer,Japan,PREM,"15,100",35,6.6,53,C,10.9,,0448
+449,Asashio B,https://www.twtships.com/ship/3667801808,Destroyer,Japan,PREM,"15,100",35,6.6,53,C,10.9,,0449
+450,Atago,https://www.twtships.com/ship/4255037136,Cruiser,Japan,PREM,"40,100",35.5,11.5,74,A,15.8,10,0450
+451,Atago B,https://www.twtships.com/ship/3667834576,Cruiser,Japan,PREM,"40,100",35.5,11.5,74,A,15.8,10,0451
+452,Atlântico,https://www.twtships.com/ship/3762238800,Battleship,Pan-America,PREM,"60,100",25,14.2,76,A,18.6,,0452
+453,Auckland,https://www.twtships.com/ship/4276008304,Cruiser,Commonwealth,STD,"35,400",33,13.3,74,A,14.5,12,0453
+454,August von Parseval,https://www.twtships.com/ship/4181702448,Aircraft carrier,Germany,STD,"50,000",31.8,13.1,80,S,,,0454
+455,BA Binah,https://www.twtships.com/ship/3437180656,Battleship,Italy,PREM,"54,500",29,14.4,84,S,18.3,,0455
+456,BA Tirpitz,https://www.twtships.com/ship/3437180720,Battleship,Germany,PREM,"69,300",30.5,15.9,90,S+,21.4,6,0456
+457,Bagration,https://www.twtships.com/ship/3720263120,Cruiser,U.S.S.R.,STD,"42,000",34.5,13.6,76,A,18.5,8,0457
+458,Baltimore,https://www.twtships.com/ship/4181637104,Cruiser,U.S.A.,STD,"36,600",32.5,12.2,76,A,14.4,,0458
+459,Bayard,https://www.twtships.com/ship/3762206544,Cruiser,France,PREM,"34,700",34,11.9,74,A,16.4,9,0459
+460,Belfast '43,https://www.twtships.com/ship/3741235152,Cruiser,United Kingdom,PREM,"38,400",32.5,11,70,A,15.4,8,0460
+461,Benson,https://www.twtships.com/ship/4286461936,Destroyer,U.S.A.,STD,"12,800",38,7.2,54,C,10.5,9.2,0461
+462,Bismarck,https://www.twtships.com/ship/4181669680,Battleship,Germany,STD,"64,500",28.5,15.9,89,S,19.3,,0462
+463,Bismarck '41,https://www.twtships.com/ship/3552524080,Battleship,Germany,PREM,"64,500",31,15.9,85,S,21.2,,0463
+464,Borodino,https://www.twtships.com/ship/3741267408,Battleship,U.S.S.R.,PREM,"64,200",31.6,16.9,84,S,19.6,,0464
+465,Borodino TE,https://www.twtships.com/ship/3437180368,Battleship,U.S.S.R.,STD,"72,000",31.6,15.3,92,S+,20.3,,0465
+466,Brandenburg,https://www.twtships.com/ship/3751753520,Battleship,Germany,PREM,"58,800",32.5,15.7,86,S,18.5,6,0466
+467,Brandenburg B,https://www.twtships.com/ship/3730782000,Battleship,Germany,PREM,"58,800",32.5,15.7,86,S,18.5,6,0467
+468,Bridgeport,https://www.twtships.com/ship/3552491504,Cruiser,U.S.A.,PREM,"41,900",33,11.7,78,A,16,,0468
+469,B?yskawica '44,https://www.twtships.com/ship/3552458032,Destroyer,Europe,PREM,"18,500",39,7.4,47,C,11.5,12,0469
+470,Cataluña,https://www.twtships.com/ship/4181636528,Cruiser,Spain,STD,"36,800",37,14.2,75,A,15,8,0470
+471,Champagne,https://www.twtships.com/ship/3741267792,Battleship,France,PREM,"60,900",34,15.9,87,S,25,,0471
+472,Chapayev,https://www.twtships.com/ship/4181636560,Cruiser,U.S.S.R.,STD,"32,000",33.5,12.8,70,A,15.8,4,0472
+473,Charles Martel,https://www.twtships.com/ship/4181636944,Cruiser,France,STD,"30,800",32.5,13.3,75,A,16,9,0473
+474,Cherbourg,https://www.twtships.com/ship/4076779344,Cruiser,France,STD,"43,100",31.9,15.2,77,A,16.1,,0474
+475,Cheshire,https://www.twtships.com/ship/3762206672,Cruiser,United Kingdom,PREM,"42,500",34,11.7,86,S,16.1,8,0475
+476,Chkalov,https://www.twtships.com/ship/3762271696,Aircraft carrier,U.S.S.R.,PREM,"51,700",32.3,13.2,83,S,,,0476
+477,Chkalov B,https://www.twtships.com/ship/3667899856,Aircraft carrier,U.S.S.R.,PREM,"51,700",32.3,13.2,83,S,,,0477
+478,Cleveland,https://www.twtships.com/ship/4076779504,Cruiser,U.S.A.,STD,"30,600",32.5,11.5,71,A,14.2,,0478
+479,Colossus,https://www.twtships.com/ship/3741300688,Aircraft carrier,United Kingdom,PREM,"47,600",25,11.4,71,A,,,0479
+480,Comandante Aguirre,https://www.twtships.com/ship/3552490832,Cruiser,Pan-America,PREM,"42,200",32.5,13.3,72,A,15.1,,0480
+481,Congress,https://www.twtships.com/ship/3741235184,Cruiser,U.S.A.,PREM,"51,150",33,15,84,S,18,,0481
+482,Constellation,https://www.twtships.com/ship/3730782192,Battleship,U.S.A.,PREM,"63,300",33.3,15.1,84,S,17.4,9.2,0482
+483,Cossack,https://www.twtships.com/ship/3752736720,Destroyer,United Kingdom,PREM,"15,200",36,6.8,55,B,11.9,10,0483
+484,Cossack B,https://www.twtships.com/ship/3667802064,Destroyer,United Kingdom,PREM,"15,200",36,6.8,55,B,11.9,10,0484
+485,Cross of Dorn,https://www.twtships.com/ship/3542005552,Cruiser,Germany,PREM,"42,500",32,14.8,77,A,17.5,6,0485
+486,Cuauhtémoc,https://www.twtships.com/ship/4275975504,Destroyer,Pan-America,STD,"14,400",35,7.5,55,B,11,8,0486
+487,Datong,https://www.twtships.com/ship/3531486416,Destroyer,Pan-Asia,PREM,"17,200",36.5,7.2,54,C,12.8,8,0487
+488,De Zeven Provinciën,https://www.twtships.com/ship/3762206480,Cruiser,Netherlands,PREM,"33,800",32,11.5,92,S+,16.1,,0488
+489,Dmitry Pozharsky,https://www.twtships.com/ship/3709777360,Cruiser,U.S.S.R.,PREM,"40,700",33,14,73,A,18.1,4,0489
+490,Edinburgh,https://www.twtships.com/ship/4181637072,Cruiser,United Kingdom,STD,"31,800",32.5,11.4,57,B,14,8,0490
+491,Eiserner Kanzler,https://www.twtships.com/ship/3321837360,Battleship,Germany,PREM,"64,500",31,15.9,85,S,21.2,,0491
+492,Enigheten,https://www.twtships.com/ship/4276041008,Battleship,Europe,STD,"50,700",30,13.8,85,S,18.1,12,0492
+493,Enterprise,https://www.twtships.com/ship/3751786480,Aircraft carrier,U.S.A.,PREM,"51,400",32.5,14.1,84,S,,,0493
+494,Eskimo,https://www.twtships.com/ship/3541972944,Destroyer,United Kingdom,PREM,"15,200",36,7.2,60,B,12.1,12,0494
+495,Fenyang,https://www.twtships.com/ship/3751687376,Destroyer,Pan-Asia,PREM,"19,700",33,7.5,63,B,12.5,,0495
+496,Flandre,https://www.twtships.com/ship/3730782032,Battleship,France,PREM,"75,400",33.5,15.7,85,S,20,,0496
+497,Flandre B,https://www.twtships.com/ship/3332323152,Battleship,France,PREM,"75,400",33.5,15.7,85,S,20,,0497
+498,Gascogne,https://www.twtships.com/ship/3762239312,Battleship,France,PREM,"63,200",32,16.2,87,S,23.8,,0498
+499,Graf Zeppelin,https://www.twtships.com/ship/3751786288,Aircraft carrier,Germany,PREM,"52,600",32,15.7,72,A,,,0499
+500,Graf Zeppelin B,https://www.twtships.com/ship/3667900208,Aircraft carrier,Germany,PREM,"52,600",32,15.7,72,A,,,0500
+501,Gustav-Julius Maerker,https://www.twtships.com/ship/4076746544,Destroyer,Germany,STD,"20,400",36,7.8,62,B,10.8,12,0501
+502,Haarlem,https://www.twtships.com/ship/4181636880,Cruiser,Netherlands,STD,"36,250",32.5,12.1,74,A,14.2,,0502
+503,Hampshire,https://www.twtships.com/ship/3730749392,Cruiser,United Kingdom,PREM,"37,600",30,11.5,69,B,16.8,10,0503
+504,Harbin,https://www.twtships.com/ship/4181636304,Cruiser,Pan-Asia,STD,"23,800",33.4,11.7,64,B,13.2,,0504
+505,Hawke,https://www.twtships.com/ship/4076812240,Battleship,United Kingdom,STD,"65,000",30.5,14.5,86,S,17.1,8,0505
+506,Hoche,https://www.twtships.com/ship/3541972816,Destroyer,France,PREM,"19,600",36,7.4,63,B,13,9,0506
+507,Hornet,https://www.twtships.com/ship/3730814960,Aircraft carrier,U.S.A.,PREM,"50,000",32.5,13.8,63,B,,,0507
+508,Hornet B,https://www.twtships.com/ship/3332356080,Aircraft carrier,U.S.A.,PREM,"50,000",32.5,13.8,63,B,,,0508
+509,HSF Harekaze,https://www.twtships.com/ship/3552458448,Destroyer,Japan,PREM,"13,300",35.5,6.6,52,C,9.4,10,0509
+510,HSF Harekaze II,https://www.twtships.com/ship/3741202128,Destroyer,Japan,PREM,"13,300",35,6.6,62,B,11.4,10,0510
+511,Hsienyang,https://www.twtships.com/ship/4181603536,Destroyer,Pan-Asia,STD,"12,800",37.5,7.2,53,C,11.4,,0511
+512,I-56,https://www.twtships.com/ship/3751196368,Submarine,Japan,PREM,"24,200",29,7.1,30,D,8.5,6,0512
+513,Ignacio Allende,https://www.twtships.com/ship/4181636432,Cruiser,Pan-America,STD,"34,900",33,12.6,69,B,13.8,6,0513
+514,Ignis Purgatio,https://www.twtships.com/ship/3374266064,Battleship,Japan,PREM,"66,300",30,16.8,86,S,19.9,,0514
+515,Implacable,https://www.twtships.com/ship/4181702608,Aircraft carrier,United Kingdom,STD,"49,300",32,14.5,85,S,,,0515
+516,Indomitable,https://www.twtships.com/ship/3762272208,Aircraft carrier,United Kingdom,PREM,"51,400",30.5,13.1,81,S,,,0516
+517,Ipiranga,https://www.twtships.com/ship/4276041040,Battleship,Pan-America,STD,"59,700",29,15.2,82,S,17,,0517
+518,Irian,https://www.twtships.com/ship/3762205904,Cruiser,Pan-Asia,PREM,"41,200",32.7,13.3,73,A,17.5,,0518
+519,Jaarsveld,https://www.twtships.com/ship/4276008720,Cruiser,Netherlands,STD,"26,800",34,11.5,79,A,14.4,,0519
+520,Kaga,https://www.twtships.com/ship/3751786192,Aircraft carrier,Japan,PREM,"54,200",28,12.2,57,B,,,0520
+521,Kaga B,https://www.twtships.com/ship/3667900112,Aircraft carrier,Japan,PREM,"54,200",28,12.2,57,B,,,0521
+522,Kager?,https://www.twtships.com/ship/4076746448,Destroyer,Japan,STD,"13,300",35,6.6,51,C,8.6,10,0522
+523,Kansas,https://www.twtships.com/ship/4181669872,Battleship,U.S.A.,STD,"61,300",23,16.1,82,S,20.6,,0523
+524,Kheper,https://www.twtships.com/ship/3342809072,Battleship,U.S.A.,PREM,"66,000",27.5,15.2,86,S,23.3,,0524
+525,Kiberpankov,https://www.twtships.com/ship/3437147600,Cruiser,U.S.S.R.,PREM,"40,700",33,14,73,A,18.1,4,0525
+526,Kidd,https://www.twtships.com/ship/3762173936,Destroyer,U.S.A.,PREM,"16,700",38,7.2,61,B,12.1,9.2,0526
+527,Kiev,https://www.twtships.com/ship/3971888592,Destroyer,U.S.S.R.,STD,"16,200",42.5,8.5,58,B,11.1,7,0527
+528,Kii,https://www.twtships.com/ship/3762239184,Battleship,Japan,PREM,"68,200",29.5,17.3,86,S,19.4,10,0528
+529,Knesebeck,https://www.twtships.com/ship/4276008752,Cruiser,Germany,STD,"44,500",32.5,13.6,80,S,15.3,9.5,0529
+530,Kriti,https://www.twtships.com/ship/4276008240,Cruiser,Europe,SPEC,"31,200",33,10.9,73,A,12.7,12,0530
+531,L'Aventurier,https://www.twtships.com/ship/4275976016,Destroyer,France,STD,"15,000",35,7.4,56,B,10.9,10,0531
+532,L-20,https://www.twtships.com/ship/4181112272,Submarine,U.S.S.R.,STD,"13,300",29,6.2,28,D,6,9,0532
+533,Le Fantasque,https://www.twtships.com/ship/4181604176,Destroyer,France,STD,"15,400",42.7,7.9,58,B,11.9,8,0533
+534,Lenin,https://www.twtships.com/ship/3751753168,Battleship,U.S.S.R.,PREM,"63,200",28.5,16.1,86,S,18.4,,0534
+535,Lexington,https://www.twtships.com/ship/4181702640,Aircraft carrier,U.S.A.,STD,"54,300",33,14.5,87,S,,,0535
+536,Le Terrible,https://www.twtships.com/ship/3762173776,Destroyer,France,PREM,"18,600",43,8.2,59,B,12.3,8,0536
+537,Lightning,https://www.twtships.com/ship/4181604304,Destroyer,United Kingdom,STD,"13,000",36,6.8,55,B,11.1,8,0537
+538,Loyang,https://www.twtships.com/ship/3762173136,Destroyer,Pan-Asia,PREM,"14,600",38,7.2,53,C,11.6,9.2,0538
+539,Loyang B,https://www.twtships.com/ship/3667801296,Destroyer,Pan-Asia,PREM,"14,600",38,7.2,53,C,11.6,9.2,0539
+540,Mainz,https://www.twtships.com/ship/3751720752,Cruiser,Germany,PREM,"42,500",32,14.8,77,A,17.5,6,0540
+541,Mainz B,https://www.twtships.com/ship/3667834672,Cruiser,Germany,PREM,"42,500",32,14.8,77,A,17.5,6,0541
+542,Marcantonio Colonna,https://www.twtships.com/ship/3542038256,Battleship,Italy,PREM,"54,500",29,14.4,84,S,18.3,,0542
+543,Massachusetts,https://www.twtships.com/ship/3751753712,Battleship,U.S.A.,PREM,"66,300",27.5,16.1,87,S,18.3,,0543
+544,Massachusetts B,https://www.twtships.com/ship/3667867632,Battleship,U.S.A.,PREM,"66,300",27.5,16.1,87,S,18.3,,0544
+545,Metz,https://www.twtships.com/ship/3552491344,Cruiser,France,STD,"42,500",30,13.7,79,A,18.8,,0545
+546,Mikhail Kutuzov,https://www.twtships.com/ship/3762206160,Cruiser,U.S.S.R.,PREM,"40,700",33,14.1,73,A,19.1,8,0546
+547,Mirage,https://www.twtships.com/ship/3342776048,Cruiser,Italy,STD,"42,800",37,14,85,S,16.1,12,0547
+548,Mogami,https://www.twtships.com/ship/4285445840,Cruiser,Japan,STD,"35,500",34.5,11.7,68,B,14.2,10,0548
+549,Monarch,https://www.twtships.com/ship/4181669840,Battleship,United Kingdom,STD,"53,900",26.6,14.1,88,S,17.9,,0549
+550,Narai,https://www.twtships.com/ship/3542004944,Cruiser,Pan-Asia,PREM,"33,100",30.3,11.4,67,B,16,,0550
+551,Nebraska,https://www.twtships.com/ship/4076812272,Battleship,U.S.A.,STD,"62,000",30,15.2,81,S,19.1,,0551
+552,North Carolina,https://www.twtships.com/ship/4282333168,Battleship,U.S.A.,STD,"53,700",24.4,15.2,85,S,21.1,,0552
+553,North Carolina 2,https://www.twtships.com/ship/3248437232,Battleship,U.S.A.,SPEC,"66,000",27.5,15.2,86,S,23.3,,0553
+554,North Carolina CLR,https://www.twtships.com/ship/3447666672,Battleship,U.S.A.,PREM,"66,000",27.5,15.2,86,S,23.3,,0554
+555,Nottingham,https://www.twtships.com/ship/3720263632,Cruiser,United Kingdom,PREM,"35,300",34,11.7,75,A,15.7,8,0555
+556,Numancia,https://www.twtships.com/ship/3762206128,Cruiser,Spain,PREM,"34,500",33.5,10.4,76,A,15.2,8,0556
+557,Ochakov,https://www.twtships.com/ship/3741234640,Cruiser,U.S.S.R.,PREM,"30,200",35,11.2,71,A,15.6,8,0557
+558,Odin,https://www.twtships.com/ship/3762239280,Battleship,Germany,PREM,"52,800",30,14.8,86,S,19.1,6,0558
+559,Odin TE,https://www.twtships.com/ship/3426694960,Battleship,Germany,STD,"66,850",30,14.8,88,S,16,6,0559
+560,Ognevoi,https://www.twtships.com/ship/4076746192,Destroyer,U.S.S.R.,STD,"13,300",37,7.5,53,C,10.9,8,0560
+561,Orkan,https://www.twtships.com/ship/3762173232,Destroyer,Europe,PREM,"15,700",35,7.3,57,B,11.6,12,0561
+562,Osborne,https://www.twtships.com/ship/4255004656,Destroyer,U.S.A.,STD,"14,100",35,7.6,55,B,11.4,9,0562
+563,Philips van Almonde,https://www.twtships.com/ship/3552458512,Destroyer,Netherlands,PREM,"14,200",37.5,7.4,54,C,11.7,6,0563
+564,Picardie,https://www.twtships.com/ship/3720296272,Battleship,France,PREM,"53,400",27,13.9,80,S,22.7,,0564
+565,Pietro Micca,https://www.twtships.com/ship/4181112560,Submarine,Italy,STD,"14,600",26,6.1,30,D,9.5,8.5,0565
+566,Piñatian,https://www.twtships.com/ship/3342775504,Cruiser,Pan-Asia,PREM,"41,200",32.7,13.3,73,A,17.5,,0566
+567,Pobeda,https://www.twtships.com/ship/4181702096,Aircraft carrier,U.S.S.R.,STD,"53,200",33.5,13.4,72,A,,,0567
+568,Prince of Wales,https://www.twtships.com/ship/3552524240,Battleship,United Kingdom,PREM,"60,400",28,14.6,87,S,17.1,,0568
+569,Prins Maurits,https://www.twtships.com/ship/4276041488,Battleship,Netherlands,SPEC,"56,300",35,16,81,S,17.2,,0569
+570,Prinz Eugen,https://www.twtships.com/ship/3762206512,Cruiser,Germany,PREM,"45,000",32,14.5,82,S,17.5,6,0570
+571,Protector,https://www.twtships.com/ship/3531519984,Cruiser,U.S.A.,STD,"51,150",33,15,82,S,17.9,,0571
+572,Provorny,https://www.twtships.com/ship/3541972432,Destroyer,U.S.S.R.,PREM,"19,600",36,7.9,65,B,11.6,10,0572
+573,Pyotr Bagration,https://www.twtships.com/ship/3730748880,Cruiser,U.S.S.R.,PREM,"42,000",34.5,13.6,78,A,18.5,8,0573
+574,Ragnarok,https://www.twtships.com/ship/3363780304,Battleship,Japan,PREM,"66,300",30,16.8,86,S,19.9,,0574
+575,Regele Carol I,https://www.twtships.com/ship/3542005040,Cruiser,Europe,PREM,"38,500",31,12.6,86,S,16.2,12,0575
+576,Richelieu,https://www.twtships.com/ship/4181669712,Battleship,France,STD,"54,500",30.4,16.2,85,S,23,,0576
+577,Rochester,https://www.twtships.com/ship/3730749424,Cruiser,U.S.A.,PREM,"41,900",33,11.7,78,A,15.9,,0577
+578,Roma,https://www.twtships.com/ship/3762239216,Battleship,Italy,PREM,"65,400",30,14.5,85,S,18.1,,0578
+579,Roma Aeterna,https://www.twtships.com/ship/3342808816,Battleship,Italy,PREM,"65,400",30,14.5,85,S,18.1,,0579
+580,S-189,https://www.twtships.com/ship/3761681872,Submarine,U.S.S.R.,PREM,"14,200",30,5.5,22,D,,9,0580
+581,Saipan,https://www.twtships.com/ship/3741300720,Aircraft carrier,U.S.A.,PREM,"47,900",33,11.9,72,A,,,0581
+582,Saipan B,https://www.twtships.com/ship/3667900400,Aircraft carrier,U.S.A.,PREM,"47,900",33,11.9,72,A,,,0582
+583,Salmon,https://www.twtships.com/ship/4076255216,Submarine,U.S.A.,STD,"14,700",33,6,24,D,,11,0583
+584,San Diego,https://www.twtships.com/ship/3720263664,Cruiser,U.S.A.,PREM,"27,900",32.5,11.4,69,B,15.6,4.5,0584
+585,Sanzang,https://www.twtships.com/ship/3762271440,Aircraft carrier,Pan-Asia,PREM,"47,900",33,11.9,72,A,,,0585
+586,Schill,https://www.twtships.com/ship/3741234992,Cruiser,Germany,PREM,"44,000",32.5,14.5,82,S,17.3,8,0586
+587,Schill B,https://www.twtships.com/ship/3342776112,Cruiser,Germany,PREM,"44,000",32.5,14.5,82,S,17.3,8,0587
+588,Sea Howl,https://www.twtships.com/ship/3332323120,Battleship,Germany,STD,"58,800",32.5,15.7,86,S,18.5,6,0588
+589,Shigure,https://www.twtships.com/ship/3531486928,Destroyer,Japan,PREM,"13,100",34,6.5,51,C,11.3,10,0589
+590,Shimanto,https://www.twtships.com/ship/4076779216,Cruiser,Japan,STD,"40,100",34.5,12.5,72,A,15,15,0590
+591,Ship Smasha,https://www.twtships.com/ship/3541972176,Destroyer,Pan-Asia,PREM,"19,700",33,7.5,63,B,12.5,,0591
+592,Sh?kaku,https://www.twtships.com/ship/4181702352,Aircraft carrier,Japan,STD,"50,100",34,12.1,60,B,,,0592
+593,Siliwangi,https://www.twtships.com/ship/4076745936,Destroyer,Pan-Asia,PREM,"17,200",36.5,7.3,57,B,12.5,,0593
+594,Sinann,https://www.twtships.com/ship/3552491472,Cruiser,United Kingdom,PREM,"38,400",32.5,11,70,A,15.4,8,0594
+595,Split,https://www.twtships.com/ship/4076746032,Destroyer,Europe,STD,"13,400",38,8.5,44,C,10.3,8.5,0595
+596,STAR Edinburgh,https://www.twtships.com/ship/3363747792,Cruiser,United Kingdom,PREM,"36,400",32.5,11.4,66,B,15.4,10,0596
+597,Statenland,https://www.twtships.com/ship/3248404240,Cruiser,Netherlands,STD,"33,800",32,11.5,88,S,14.1,,0597
+598,Sturdy,https://www.twtships.com/ship/4181112784,Submarine,United Kingdom,STD,"12,000",25,6.1,12,D,,10,0598
+599,Tallinn,https://www.twtships.com/ship/4076778960,Cruiser,U.S.S.R.,STD,"39,000",33.1,14.1,76,A,16.1,4,0599
+600,Tennessee,https://www.twtships.com/ship/3542038512,Battleship,U.S.A.,PREM,"59,000",20.5,14.1,82,S,20.2,,0600
+601,Theseus,https://www.twtships.com/ship/3542071248,Aircraft carrier,United Kingdom,PREM,"47,600",25,11.4,69,B,,,0601
+602,Tiger '59,https://www.twtships.com/ship/3751720912,Cruiser,United Kingdom,PREM,"33,100",30.3,11.4,64,B,15.6,,0602
+603,Tirpitz,https://www.twtships.com/ship/4292818736,Battleship,Germany,PREM,"69,300",30.5,15.9,90,S+,21.4,6,0603
+604,Tirpitz B,https://www.twtships.com/ship/3667867440,Battleship,Germany,PREM,"69,300",30.5,15.9,90,S+,21.4,6,0604
+605,Tone,https://www.twtships.com/ship/4276008656,Cruiser,Japan,PREM,"38,900",35.5,10.8,73,A,15.7,10,0605
+606,Turgut Reis,https://www.twtships.com/ship/3542037808,Battleship,Europe,PREM,"59,200",31.9,14.8,85,S,18.5,6,0606
+607,U-190,https://www.twtships.com/ship/4076255024,Submarine,Germany,STD,"13,300",29,5.6,15,D,,12.5,0607
+608,Vanguard,https://www.twtships.com/ship/3762239440,Battleship,United Kingdom,PREM,"71,700",30,15.6,91,S+,20,,0608
+609,Vittorio Cuniberti,https://www.twtships.com/ship/4181604080,Destroyer,Italy,STD,"14,300",39,8.2,43,C,7.8,10,0609
+610,Vittorio Veneto,https://www.twtships.com/ship/4181669616,Battleship,Italy,STD,"59,300",30,15.8,93,S+,17.3,,0610
+611,Vladivostok,https://www.twtships.com/ship/4181669328,Battleship,U.S.S.R.,STD,"67,500",29,15.4,81,S,16.3,,0611
+612,Volunteer State,https://www.twtships.com/ship/3352246256,Battleship,U.S.A.,STD,"59,000",20.5,14.1,82,S,20.2,,0612
+613,Vrijheid,https://www.twtships.com/ship/3552491280,Cruiser,Netherlands,PREM,"33,400",33,11.3,82,S,14.1,,0613
+614,Wahnsinn,https://www.twtships.com/ship/3342808880,Battleship,Germany,PREM,"62,900",31,14.8,89,S,18,12,0614
+615,Wichita,https://www.twtships.com/ship/3762206704,Cruiser,U.S.A.,PREM,"37,900",33.6,11.7,76,A,15.8,,0615
+616,Wiesbaden,https://www.twtships.com/ship/3531519792,Cruiser,Germany,PREM,"34,100",32,10.5,85,S,15,9.5,0616
+617,Wukong,https://www.twtships.com/ship/3751720144,Cruiser,Pan-Asia,PREM,"38,000",32.5,13.3,79,A,17.6,,0617
+618,Yorktown,https://www.twtships.com/ship/4265588720,Aircraft carrier,U.S.A.,STD,"48,200",32.5,13,74,A,,,0618
+619,Yumihari,https://www.twtships.com/ship/4076811984,Battleship,Japan,STD,"56,200",30,14.7,87,S,20.8,,0619
+620,Z-23,https://www.twtships.com/ship/4181604144,Destroyer,Germany,STD,"16,700",37,7.7,53,C,9.9,8.5,0620
+621,Z-35,https://www.twtships.com/ship/3751687984,Destroyer,Germany,PREM,"19,100",36.5,7.7,60,B,12.1,6,0621
+622,Zhu Que,https://www.twtships.com/ship/3552457936,Destroyer,Pan-Asia,PREM,"16,700",38,7.2,61,B,12.1,9.2,0622
+623,Zieten,https://www.twtships.com/ship/4076812080,Battleship,Germany,STD,"57,200",31,14.8,88,S,16.4,12,0623
+624,Érne,https://www.twtships.com/ship/3542005712,Cruiser,United Kingdom,PREM,"33,100",30.3,11.4,64,B,15.6,,0624
+625,Öland,https://www.twtships.com/ship/4181603632,Destroyer,Europe,STD,"12,700",35,7.2,55,B,9.2,12,0625
+626,Admiral Scheer,https://www.twtships.com/ship/4277057328,Cruiser,Germany,STD,"33,150",28.3,12.8,80,S,14.9,8,0626
+627,Akatsuki,https://www.twtships.com/ship/4182652624,Destroyer,Japan,STD,"11,600",38,7.2,52,C,9.4,10,0627
+628,AL Gorizia,https://www.twtships.com/ship/3354310384,Cruiser,Italy,PREM,"37,100",33,13.5,84,S,15.6,,0628
+629,AL Prinz Heinrich,https://www.twtships.com/ship/3752802096,Battleship,Germany,PREM,"56,300",28,14.6,85,S,17.4,10,0629
+630,Algérie,https://www.twtships.com/ship/4182685520,Cruiser,France,STD,"29,700",31,13.4,76,A,16.3,9,0630
+631,Arkhangelsk,https://www.twtships.com/ship/3543086544,Battleship,U.S.S.R.,PREM,"48,700",22,14.8,82,S,20.1,,0631
+632,ARP Ashigara,https://www.twtships.com/ship/3553539792,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0632
+633,ARP Haguro,https://www.twtships.com/ship/3551442640,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0633
+634,ARP My?k?,https://www.twtships.com/ship/3555636944,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0634
+635,ARP Nachi,https://www.twtships.com/ship/3522082512,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0635
+636,Ashitaka,https://www.twtships.com/ship/3763287760,Battleship,Japan,PREM,"59,400",30,16.8,85,S,19.9,,0636
+637,Asturias,https://www.twtships.com/ship/4182685104,Cruiser,Spain,STD,"37,200",35,13.8,74,A,14.3,8,0637
+638,Atlanta,https://www.twtships.com/ship/4288591856,Cruiser,U.S.A.,PREM,"27,500",32.5,10.7,62,B,13.3,4.5,0638
+639,Atlanta B,https://www.twtships.com/ship/3679369200,Cruiser,U.S.A.,PREM,"27,500",32.5,10.7,62,B,13.3,4.5,0639
+640,Belfast,https://www.twtships.com/ship/3763255248,Cruiser,United Kingdom,PREM,"35,700",32.5,11,68,B,15.4,,0640
+641,Boise,https://www.twtships.com/ship/3668883440,Cruiser,U.S.A.,PREM,"33,300",30,11.5,68,B,13.6,,0641
+642,Bóinn,https://www.twtships.com/ship/3553540048,Cruiser,United Kingdom,PREM,"35,700",32.5,11,68,B,15.4,,0642
+643,B?yskawica,https://www.twtships.com/ship/3769513264,Destroyer,Europe,PREM,"15,500",39,7.5,53,C,12,8,0643
+644,California,https://www.twtships.com/ship/3553572848,Battleship,U.S.A.,PREM,"58,300",20.5,13.1,84,S,19.9,,0644
+645,Chios,https://www.twtships.com/ship/4277089584,Battleship,Europe,STD,"46,900",28,13.1,84,S,17.4,10.5,0645
+646,Chumphon,https://www.twtships.com/ship/4182684880,Cruiser,Pan-Asia,STD,"23,900",32.5,10.3,59,B,12.9,,0646
+647,Collingwood,https://www.twtships.com/ship/3731830736,Battleship,United Kingdom,PREM,"58,500",25,14.1,84,S,19.1,,0647
+648,Colorado,https://www.twtships.com/ship/4286527472,Battleship,U.S.A.,STD,"49,000",18.6,16.2,82,S,17.1,,0648
+649,Colorado 2,https://www.twtships.com/ship/3249485808,Battleship,U.S.A.,SPEC,"59,300",21,16.2,83,S,18.8,,0649
+650,Coronel Bolognesi,https://www.twtships.com/ship/4182685008,Cruiser,Pan-America,STD,"27,100",31.5,11.2,58,B,13.7,8,0650
+651,Danu,https://www.twtships.com/ship/3511629776,Battleship,United Kingdom,PREM,"60,500",28,14.1,85,S,18.1,,0651
+652,Duca degli Abruzzi,https://www.twtships.com/ship/3763255024,Cruiser,Italy,PREM,"32,500",35,10.8,67,B,15.1,12,0652
+653,Duke of York,https://www.twtships.com/ship/3742316496,Battleship,United Kingdom,PREM,"60,500",28,14.1,85,S,18.1,,0653
+654,Eastern Dragon,https://www.twtships.com/ship/3532568272,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0654
+655,Eendracht,https://www.twtships.com/ship/4182685456,Cruiser,Netherlands,STD,"28,800",33,11.5,71,A,13.4,,0655
+656,Fiji,https://www.twtships.com/ship/4182685648,Cruiser,United Kingdom,STD,"27,500",32.5,11.2,50,C,14,8,0656
+657,Fiume,https://www.twtships.com/ship/3543054064,Cruiser,Italy,PREM,"32,100",32.6,14.3,76,A,16.5,,0657
+658,Flint,https://www.twtships.com/ship/3553540080,Cruiser,U.S.A.,PREM,"26,600",32.5,10.7,68,B,12.4,9.2,0658
+659,Florida,https://www.twtships.com/ship/3752802288,Battleship,U.S.A.,PREM,"51,800",27,13.4,80,S,18.6,,0659
+660,FR25,https://www.twtships.com/ship/3763222256,Destroyer,Italy,PREM,"19,000",36,7,52,C,12.7,7,0660
+661,Francesco Caracciolo,https://www.twtships.com/ship/4182718192,Battleship,Italy,STD,"52,600",29,13.9,91,S+,15.9,,0661
+662,Francesco Ferruccio,https://www.twtships.com/ship/3752769264,Cruiser,Italy,PREM,"28,400",36.5,9.6,62,B,17.5,13.5,0662
+663,Gadjah Mada,https://www.twtships.com/ship/4182652112,Destroyer,Pan-Asia,STD,"12,000",36,6.8,51,C,10.8,,0663
+664,Gambia,https://www.twtships.com/ship/3543053680,Cruiser,Commonwealth,PREM,"31,400",31.5,11.8,67,B,15.3,7,0664
+665,Gneisenau,https://www.twtships.com/ship/4182718256,Battleship,Germany,STD,"50,900",28.8,15.2,84,S,17.8,6,0665
+666,Gorizia,https://www.twtships.com/ship/3658397424,Cruiser,Italy,PREM,"37,100",33,13.5,84,S,15.6,,0666
+667,Graaf van Egmont,https://www.twtships.com/ship/4277090064,Battleship,Netherlands,SPEC,"47,400",34,15.4,80,S,16.5,,0667
+668,Grom,https://www.twtships.com/ship/4077794608,Destroyer,Europe,STD,"12,900",39,7.2,28,D,9.9,7.5,0668
+669,Haida,https://www.twtships.com/ship/3763221872,Destroyer,Commonwealth,PREM,"15,700",36.5,6.3,55,B,12.3,8,0669
+670,Hel,https://www.twtships.com/ship/4277056816,Cruiser,Europe,SPEC,"26,600",35,10.5,68,B,12.5,10,0670
+671,Helena,https://www.twtships.com/ship/4077828080,Cruiser,U.S.A.,STD,"28,700",32.5,11.5,67,B,13.2,,0671
+672,Honolulu,https://www.twtships.com/ship/3543054320,Cruiser,U.S.A.,STD,"33,900",32.5,10.9,66,B,13.3,,0672
+673,Hood,https://www.twtships.com/ship/3763288016,Battleship,United Kingdom,PREM,"67,700",32,15.7,83,S,18.6,,0673
+674,Hughes,https://www.twtships.com/ship/4256053232,Destroyer,U.S.A.,STD,"12,600",35,7.1,45,C,11.2,9.2,0674
+675,Huron,https://www.twtships.com/ship/3752736112,Destroyer,Commonwealth,PREM,"15,700",36.5,6.9,52,C,12.3,8,0675
+676,Hy?ga,https://www.twtships.com/ship/3752802000,Battleship,Japan,PREM,"60,700",25.3,16.3,84,S,20.3,,0676
+677,Indianapolis,https://www.twtships.com/ship/3763255280,Cruiser,U.S.A.,PREM,"32,500",32.5,12.3,75,A,16.9,,0677
+678,Jervis,https://www.twtships.com/ship/4182652880,Destroyer,United Kingdom,STD,"11,800",36,7.1,51,C,11,7,0678
+679,Jupiter '42,https://www.twtships.com/ship/3543021520,Destroyer,United Kingdom,PREM,"14,300",36,6.3,38,D,12.1,7,0679
+680,King George V,https://www.twtships.com/ship/4182718416,Battleship,United Kingdom,STD,"53,900",26.6,14.1,86,S,16.5,,0680
+681,Lanzhou,https://www.twtships.com/ship/3543053520,Cruiser,Pan-Asia,PREM,"31,500",35,12.7,75,A,17.6,,0681
+682,Lazo,https://www.twtships.com/ship/3751720400,Cruiser,U.S.S.R.,PREM,"36,300",33.5,12.8,70,A,17.3,4,0682
+683,Lazo B,https://www.twtships.com/ship/3699291600,Cruiser,U.S.S.R.,PREM,"36,300",33.5,12.8,70,A,17.3,4,0683
+684,Leberecht Maass,https://www.twtships.com/ship/4182652720,Destroyer,Germany,STD,"14,400",37,7.5,54,C,9.9,8,0684
+685,Leningrad,https://www.twtships.com/ship/3763221968,Destroyer,U.S.S.R.,PREM,"15,200",43,7.3,54,C,11.6,8,0685
+686,Le Hardi,https://www.twtships.com/ship/4277024592,Destroyer,France,STD,"12,000",37,7,56,B,10.9,9,0686
+687,Luca Tarigo,https://www.twtships.com/ship/4182652656,Destroyer,Italy,STD,"12,600",38,7.3,41,C,6.8,10,0687
+688,Lugdunum,https://www.twtships.com/ship/3553572144,Battleship,Europe,PREM,"53,400",27,14.2,79,A,17.4,,0688
+689,Lyon,https://www.twtships.com/ship/4182718288,Battleship,France,STD,"46,000",25.6,15.4,79,A,16.9,,0689
+690,Mahan,https://www.twtships.com/ship/4288559088,Destroyer,U.S.A.,STD,"11,700",35,7.4,52,C,10.6,6.4,0690
+691,Marcílio Dias,https://www.twtships.com/ship/4277024080,Destroyer,Pan-America,STD,"11,000",36.5,7.3,39,D,10.9,8,0691
+692,Maya,https://www.twtships.com/ship/3752769232,Cruiser,Japan,PREM,"39,200",35.5,12.4,71,A,15.3,8,0692
+693,Minsk,https://www.twtships.com/ship/4077794768,Destroyer,U.S.S.R.,STD,"13,800",43,7.5,57,B,11.1,7,0693
+694,My?k?,https://www.twtships.com/ship/4286494416,Cruiser,Japan,STD,"37,400",35,12.8,74,A,15.6,10,0694
+695,München,https://www.twtships.com/ship/3763255088,Cruiser,Germany,PREM,"30,200",36,10.5,71,A,16.6,6,0695
+696,München B,https://www.twtships.com/ship/3438196528,Cruiser,Germany,PREM,"30,200",36,10.5,71,A,16.6,6,0696
+697,Nagato,https://www.twtships.com/ship/4284430032,Battleship,Japan,STD,"49,000",22.3,16.6,85,S,20.5,,0697
+698,Nelson,https://www.twtships.com/ship/3752802256,Battleship,United Kingdom,PREM,"59,400",24,14.8,87,S,18.2,,0698
+699,New Orleans,https://www.twtships.com/ship/4182685680,Cruiser,U.S.A.,STD,"29,700",32.5,12.1,73,A,14.7,,0699
+700,Nueve de Julio,https://www.twtships.com/ship/3763254608,Cruiser,Pan-America,PREM,"33,300",30,11.5,68,B,13.6,,0700
+701,Nürnberg '44,https://www.twtships.com/ship/3543054128,Cruiser,Germany,PREM,"27,700",32,10.5,70,A,14.5,9.5,0701
+702,Omono,https://www.twtships.com/ship/4077827792,Cruiser,Japan,STD,"27,500",33,11.9,67,B,14.6,13,0702
+703,Optio,https://www.twtships.com/ship/3553539824,Cruiser,Italy,PREM,"28,400",36.5,9.6,62,B,17.5,13.5,0703
+704,Poltava,https://www.twtships.com/ship/3762238928,Battleship,U.S.S.R.,PREM,"59,100",29,13.5,82,S,18.3,,0704
+705,Prinz Heinrich,https://www.twtships.com/ship/4077860656,Battleship,Germany,STD,"50,500",28,14.6,84,S,15.8,10,0705
+706,Renown '44,https://www.twtships.com/ship/3721344976,Battleship,United Kingdom,PREM,"55,200",29.9,12.8,82,S,16.9,10,0706
+707,River Gambra,https://www.twtships.com/ship/3249452400,Cruiser,Commonwealth,STD,"31,400",31.5,11.8,67,B,15.3,7,0707
+708,Rodney,https://www.twtships.com/ship/3543087056,Battleship,United Kingdom,PREM,"62,900",23.8,14.8,82,S,18,10,0708
+709,Rooke,https://www.twtships.com/ship/4077860816,Battleship,United Kingdom,STD,"52,600",31.9,13,83,S,16.5,8,0709
+710,Royal Sovereign,https://www.twtships.com/ship/3522115536,Battleship,United Kingdom,PREM,"48,700",22,13.4,88,S,18.6,,0710
+711,Scarlet Storm,https://www.twtships.com/ship/3343791408,Destroyer,Europe,PREM,"15,500",39,7.2,36,D,10.9,7.5,0711
+712,Scharnhorst,https://www.twtships.com/ship/3763287856,Battleship,Germany,PREM,"56,300",30,15.2,85,S,19.9,6,0712
+713,Scharnhorst B,https://www.twtships.com/ship/3668916016,Battleship,Germany,PREM,"56,300",30,15.2,85,S,19.9,6,0713
+714,Scharnhorst '43,https://www.twtships.com/ship/3543086896,Battleship,Germany,PREM,"56,300",30,15.2,83,S,18.9,6,0714
+715,Shchors,https://www.twtships.com/ship/4182685136,Cruiser,U.S.S.R.,STD,"27,900",35.5,12.9,69,B,15.7,4,0715
+716,Shiratsuyu,https://www.twtships.com/ship/4077795024,Destroyer,Japan,STD,"11,600",34,6.5,51,C,10,10,0716
+717,Sims,https://www.twtships.com/ship/4264441840,Destroyer,U.S.A.,PREM,"13,800",38.5,7.3,54,C,12.9,7,0717
+718,Sims B,https://www.twtships.com/ship/3668850672,Destroyer,U.S.A.,PREM,"13,800",38.5,7.3,54,C,12.9,7,0718
+719,Sinop,https://www.twtships.com/ship/4182717904,Battleship,U.S.S.R.,STD,"61,600",27,14.6,79,A,15.8,,0719
+720,Skåne,https://www.twtships.com/ship/4182652208,Destroyer,Europe,STD,"12,100",35,6.9,51,C,9.2,10,0720
+721,Southern Dragon,https://www.twtships.com/ship/3543054032,Cruiser,Japan,PREM,"39,200",35,12.8,74,A,15.6,10,0721
+722,Stord '43,https://www.twtships.com/ship/3543020848,Destroyer,Europe,PREM,"11,900",36.8,7.5,49,C,11.8,10,0722
+723,Strasbourg,https://www.twtships.com/ship/3763287888,Battleship,France,PREM,"52,600",29.5,16.4,83,S,19.1,,0723
+724,Surrey,https://www.twtships.com/ship/4077828048,Cruiser,United Kingdom,STD,"30,700",30,10.8,76,A,13.5,8,0724
+725,Tashkent '39,https://www.twtships.com/ship/3752736208,Destroyer,U.S.S.R.,PREM,"21,200",44.8,8.4,51,C,10.5,10,0725
+726,Teng She,https://www.twtships.com/ship/3553572048,Battleship,Pan-Asia,PREM,"65,000",27,15.1,80,S,18.8,,0726
+727,Tokachi,https://www.twtships.com/ship/3763254992,Cruiser,Japan,PREM,"32,000",34.5,11.8,65,B,13.6,12,0727
+728,Toulon,https://www.twtships.com/ship/3763255120,Cruiser,France,PREM,"42,500",30,11.2,75,A,16.8,,0728
+729,Uganda,https://www.twtships.com/ship/4277056880,Cruiser,Commonwealth,STD,"27,100",31.5,11.2,65,B,14.4,12,0729
+730,Vauquelin,https://www.twtships.com/ship/4182652752,Destroyer,France,STD,"15,100",36,7.3,58,B,11.9,8,0730
+731,Weimar,https://www.twtships.com/ship/3752769328,Cruiser,Germany,PREM,"32,000",31,12.8,70,A,14,6,0731
+732,West Virginia '44,https://www.twtships.com/ship/3742316528,Battleship,U.S.A.,PREM,"59,100",21,14,83,S,17.1,,0732
+733,Yorck,https://www.twtships.com/ship/4182685488,Cruiser,Germany,STD,"27,200",32,13.4,78,A,15.7,6,0733
+734,Yukon,https://www.twtships.com/ship/3763287408,Battleship,Commonwealth,PREM,"60,500",28,12.8,80,S,15.7,,0734
+735,Y?dachi,https://www.twtships.com/ship/3763222224,Destroyer,Japan,PREM,"13,200",34,6.8,51,C,11.8,15,0735
+736,Z-31,https://www.twtships.com/ship/4077795120,Destroyer,Germany,STD,"15,400",36,7,59,B,10.5,10,0736
+737,Z-39,https://www.twtships.com/ship/3762173744,Destroyer,Germany,PREM,"19,600",36,7.5,62,B,11.8,8.5,0737
+738,Zara,https://www.twtships.com/ship/4182685424,Cruiser,Italy,STD,"32,700",32,13.5,84,S,14.7,12,0738
+739,Admiral Graf Spee,https://www.twtships.com/ship/3764303664,Cruiser,Germany,PREM,"39,400",28.5,12.8,82,S,16,8,0739
+740,Admiral Makarov,https://www.twtships.com/ship/3659445712,Cruiser,U.S.S.R.,PREM,"27,000",32,12.1,73,A,16.3,6,0740
+741,Aigle,https://www.twtships.com/ship/3764270928,Destroyer,France,PREM,"17,000",36,7.5,56,B,12.8,8,0741
+742,Almirante Cochrane,https://www.twtships.com/ship/4183733584,Cruiser,Pan-America,STD,"27,900",34.8,9.9,45,C,13.2,8,0742
+743,Andrea Doria,https://www.twtships.com/ship/4183766768,Battleship,Italy,STD,"41,300",27,13.4,90,S+,15.6,,0743
+744,Anshan,https://www.twtships.com/ship/3764270288,Destroyer,Pan-Asia,PREM,"14,400",38,7,52,C,11.9,4,0744
+745,Aoba,https://www.twtships.com/ship/4287542992,Cruiser,Japan,STD,"30,500",35,11.7,71,A,13.6,10,0745
+746,Arizona,https://www.twtships.com/ship/3764336624,Battleship,U.S.A.,PREM,"57,200",21,14,76,A,16,,0746
+747,Ark Royal,https://www.twtships.com/ship/3751786448,Aircraft carrier,United Kingdom,PREM,"44,500",31,14,64,B,,,0747
+748,Aviere,https://www.twtships.com/ship/4183701232,Destroyer,Italy,STD,"11,900",38,7.1,39,D,6.3,8,0748
+749,Baleares,https://www.twtships.com/ship/4183733680,Cruiser,Spain,STD,"30,300",33,11.7,73,A,14.2,7,0749
+750,Bayern,https://www.twtships.com/ship/4183766832,Battleship,Germany,STD,"43,900",22.5,13.4,80,S,16.1,,0750
+751,Budyonny,https://www.twtships.com/ship/4183733712,Cruiser,U.S.S.R.,STD,"25,800",35,12.8,68,B,15.1,4,0751
+752,Béarn,https://www.twtships.com/ship/3764369232,Aircraft carrier,France,PREM,"44,700",21.5,12.6,46,C,,,0752
+753,Cachalot,https://www.twtships.com/ship/4078352368,Submarine,U.S.A.,STD,"11,700",27,6.4,9,D,,10,0753
+754,Canarias,https://www.twtships.com/ship/3764303280,Cruiser,Spain,PREM,"35,100",33,11.2,51,C,16.1,,0754
+755,Cervantes,https://www.twtships.com/ship/4278072656,Destroyer,Pan-America,STD,"10,700",36,6.8,29,D,10.6,8,0755
+756,Dallas,https://www.twtships.com/ship/4078876656,Cruiser,U.S.A.,STD,"24,000",32.5,11.5,66,B,13,,0756
+757,De Grasse,https://www.twtships.com/ship/3764303696,Cruiser,France,PREM,"31,200",33.5,12.9,72,A,16.2,9,0757
+758,Deutschland,https://www.twtships.com/ship/4278105904,Cruiser,Germany,STD,"25,950",28,12.3,78,A,14.4,8,0758
+759,Devonshire,https://www.twtships.com/ship/4078876624,Cruiser,United Kingdom,STD,"28,600",31.3,11.2,74,A,12.7,8,0759
+760,Dido,https://www.twtships.com/ship/3743332304,Cruiser,United Kingdom,PREM,"23,600",32.3,10.2,59,B,14.1,8,0760
+761,Duca d'Aosta,https://www.twtships.com/ship/3764303600,Cruiser,Italy,PREM,"29,700",36.5,11.7,65,B,14,12,0761
+762,Duchaffault,https://www.twtships.com/ship/4278073168,Destroyer,France,STD,"11,900",38,6.8,52,C,10.4,8,0762
+763,Dunkerque,https://www.twtships.com/ship/3764336464,Battleship,France,PREM,"52,600",29.5,16.4,82,S,18.2,,0763
+764,Dunkerque B,https://www.twtships.com/ship/3669964624,Battleship,France,PREM,"52,600",29.5,16.4,82,S,18.2,,0764
+765,Dupleix,https://www.twtships.com/ship/3753817936,Cruiser,France,PREM,"34,900",32,13.8,73,A,15,9,0765
+766,Elli,https://www.twtships.com/ship/3764303152,Cruiser,Europe,PREM,"29,700",37.7,11.7,66,B,16.5,6,0766
+767,Erich Loewenhardt,https://www.twtships.com/ship/3764369200,Aircraft carrier,Germany,PREM,"44,300",35.8,13.1,57,B,,,0767
+768,Ernst Gaede,https://www.twtships.com/ship/4183701296,Destroyer,Germany,STD,"15,700",36,7.3,53,C,9.9,7.5,0768
+769,Farragut,https://www.twtships.com/ship/4289607664,Destroyer,U.S.A.,STD,"10,900",36.5,7.3,53,C,11.4,5.5,0769
+770,Foca,https://www.twtships.com/ship/4183209712,Submarine,Italy,STD,"12,600",25,6.2,18,D,8.5,8,0770
+771,Fubuki,https://www.twtships.com/ship/4183701200,Destroyer,Japan,STD,"11,500",35,6.7,50,C,10.5,6,0771
+772,Furious,https://www.twtships.com/ship/4183799760,Aircraft carrier,United Kingdom,STD,"42,700",31.5,12.1,63,B,,,0772
+773,Fushun,https://www.twtships.com/ship/4183700688,Destroyer,Pan-Asia,STD,"12,000",38,6.8,51,C,10.8,,0773
+774,Fus?,https://www.twtships.com/ship/4288624336,Battleship,Japan,STD,"44,900",21.6,18.3,82,S,19.8,,0774
+775,Gallant,https://www.twtships.com/ship/3764271056,Destroyer,United Kingdom,PREM,"12,000",36,6.6,48,C,10.2,8,0775
+776,Gnevny,https://www.twtships.com/ship/4078843344,Destroyer,U.S.S.R.,STD,"12,000",38,6.8,55,B,10.8,6,0776
+777,Gokase,https://www.twtships.com/ship/4078876368,Cruiser,Japan,STD,"25,900",37.5,10.9,64,B,12.6,12,0777
+778,Grote Geus,https://www.twtships.com/ship/4278138640,Battleship,Netherlands,SPEC,"40,200",34,15,75,A,15.9,,0778
+779,Guépard,https://www.twtships.com/ship/4183701328,Destroyer,France,STD,"14,200",36,7.5,56,B,11.9,8,0779
+780,Hatsuharu,https://www.twtships.com/ship/4078843600,Destroyer,Japan,STD,"10,500",36.5,6.5,50,C,9.8,6,0780
+781,Hobart,https://www.twtships.com/ship/4278105456,Cruiser,Commonwealth,STD,"24,200",32.5,10.8,62,B,13.1,10,0781
+782,HSF Admiral Graf Spee,https://www.twtships.com/ship/3554588464,Cruiser,Germany,PREM,"39,400",28.5,12.8,82,S,16,8,0782
+783,Huanghe,https://www.twtships.com/ship/3764303056,Cruiser,Pan-Asia,PREM,"24,100",33,9.3,65,B,13.2,8,0783
+784,Icarus,https://www.twtships.com/ship/4183701456,Destroyer,United Kingdom,STD,"10,000",35.5,6.6,48,C,10.6,6,0784
+785,Independence,https://www.twtships.com/ship/4267685872,Aircraft carrier,U.S.A.,STD,"38,800",31.6,9.9,60,B,,,0785
+786,Ise,https://www.twtships.com/ship/3743364816,Battleship,Japan,PREM,"58,700",24.5,15.4,81,S,21.4,,0786
+787,Izmail,https://www.twtships.com/ship/4183766480,Battleship,U.S.S.R.,STD,"51,700",28.5,14.7,77,A,15.5,,0787
+788,Juruá,https://www.twtships.com/ship/3764270416,Destroyer,Pan-America,PREM,"12,000",36,6.6,48,C,10.2,8,0788
+789,Karl von Schönberg,https://www.twtships.com/ship/3753785136,Destroyer,Germany,PREM,"16,500",36,7.3,60,B,11.9,7.5,0789
+790,Kijkduin,https://www.twtships.com/ship/4183734032,Cruiser,Netherlands,STD,"28,000",33,11.5,63,B,13.2,,0790
+791,La Galissonnière,https://www.twtships.com/ship/4183734096,Cruiser,France,STD,"24,800",31,12.9,70,A,14.5,9,0791
+792,Laudon,https://www.twtships.com/ship/4278138160,Battleship,Europe,STD,"38,900",21,12.7,81,S,16.5,8,0792
+793,Leander,https://www.twtships.com/ship/4183734224,Cruiser,United Kingdom,STD,"24,500",32.5,10,46,C,12,7,0793
+794,Leipzig,https://www.twtships.com/ship/3753817904,Cruiser,Germany,PREM,"26,200",32,9.7,68,B,13.5,10,0794
+795,Leone,https://www.twtships.com/ship/3764270832,Destroyer,Italy,PREM,"13,700",34,7,51,C,12.1,12,0795
+796,London,https://www.twtships.com/ship/3753818064,Cruiser,United Kingdom,PREM,"34,600",32.3,11.7,73,A,14.5,7,0796
+797,Mackensen,https://www.twtships.com/ship/4078909232,Battleship,Germany,STD,"52,300",28,12.8,83,S,15.1,,0797
+798,Molotov,https://www.twtships.com/ship/3764303312,Cruiser,U.S.S.R.,PREM,"28,400",36,12.8,72,A,15.5,4,0798
+799,Monaghan,https://www.twtships.com/ship/3764271088,Destroyer,U.S.A.,PREM,"13,900",36.5,7,52,C,12.5,6.4,0799
+800,Montcalm,https://www.twtships.com/ship/3544102736,Cruiser,France,PREM,"27,300",31,12.9,71,A,18,6,0800
+801,Mutsu,https://www.twtships.com/ship/3764336336,Battleship,Japan,PREM,"58,400",26.5,16.4,84,S,20.4,7,0801
+802,Mysore,https://www.twtships.com/ship/3753817456,Cruiser,Commonwealth,PREM,"30,600",31.5,10.7,52,C,14,,0802
+803,New Mexico,https://www.twtships.com/ship/4259264496,Battleship,U.S.A.,STD,"48,200",18.5,13.8,76,A,14.6,,0803
+804,Normandie,https://www.twtships.com/ship/4183766864,Battleship,France,STD,"44,700",28,15.7,80,S,18,,0804
+805,Novorossiysk,https://www.twtships.com/ship/3753850320,Battleship,U.S.S.R.,PREM,"40,100",27.8,15,80,S,17.5,,0805
+806,Nürnberg,https://www.twtships.com/ship/4183734064,Cruiser,Germany,STD,"23,800",32,12.2,72,A,15,6,0806
+807,Orion '44,https://www.twtships.com/ship/3544102864,Cruiser,United Kingdom,PREM,"27,900",32.5,11.1,44,C,14.5,10,0807
+808,Pensacola,https://www.twtships.com/ship/4183734256,Cruiser,U.S.A.,STD,"31,200",32.5,13.7,69,B,14.2,,0808
+809,Perth,https://www.twtships.com/ship/3764303216,Cruiser,Commonwealth,PREM,"27,100",32.5,9.8,64,B,12.8,8,0809
+810,Prinz Eitel Friedrich,https://www.twtships.com/ship/3764336432,Battleship,Germany,PREM,"52,300",28,14.6,82,S,17.8,,0810
+811,Queen Elizabeth,https://www.twtships.com/ship/4183766992,Battleship,United Kingdom,STD,"53,100",22.3,14,81,S,15.6,,0811
+812,Rahmat,https://www.twtships.com/ship/4183733456,Cruiser,Pan-Asia,STD,"21,200",32.3,10,52,C,12.3,,0812
+813,Ranger,https://www.twtships.com/ship/4183799792,Aircraft carrier,U.S.A.,STD,"43,700",29.5,13.8,59,B,,,0813
+814,Renown,https://www.twtships.com/ship/4078909392,Battleship,United Kingdom,STD,"47,200",29.9,12.8,85,S,16.3,6,0814
+815,Repulse,https://www.twtships.com/ship/3743365072,Battleship,United Kingdom,PREM,"56,100",31.7,14,88,S,19.8,,0815
+816,Repulse B,https://www.twtships.com/ship/3732879312,Battleship,United Kingdom,PREM,"56,100",31.7,14,88,S,19.8,,0816
+817,Ry?j?,https://www.twtships.com/ship/4183799504,Aircraft carrier,Japan,STD,"38,400",28,9.6,51,C,,,0817
+818,S-1,https://www.twtships.com/ship/4183209424,Submarine,U.S.S.R.,STD,"10,500",31,6.1,18,D,6,7,0818
+819,Serov,https://www.twtships.com/ship/4183799248,Aircraft carrier,U.S.S.R.,STD,,,,,,,,0819
+820,Shinonome,https://www.twtships.com/ship/3554555600,Destroyer,Japan,PREM,"12,900",35,6.8,50,C,9,8,0820
+821,Shinonome B,https://www.twtships.com/ship/3669898960,Destroyer,Japan,PREM,"12,900",35,6.8,50,C,9,8,0821
+822,Stord,https://www.twtships.com/ship/4078843184,Destroyer,Europe,STD,"11,600",36.8,7,27,D,10,7.5,0822
+823,T-61,https://www.twtships.com/ship/3764270896,Destroyer,Germany,PREM,"14,700",35,6.8,55,B,11.6,8,0823
+824,Tre Kronor,https://www.twtships.com/ship/4278105392,Cruiser,Europe,SPEC,"24,900",33,10,69,B,12.3,9,0824
+825,Trento,https://www.twtships.com/ship/4183734000,Cruiser,Italy,STD,"29,700",35,14.1,83,S,14.7,12,0825
+826,U-69,https://www.twtships.com/ship/4078352176,Submarine,Germany,STD,"10,200",27,5.7,7,D,,11.5,0826
+827,Undine,https://www.twtships.com/ship/4183209936,Submarine,United Kingdom,STD,"9,200",20,5.5,8,D,,9,0827
+828,Västerås,https://www.twtships.com/ship/4183700784,Destroyer,Europe,STD,"11,000",38,6.9,47,C,9,8,0828
+829,W. Virginia '41,https://www.twtships.com/ship/3763288048,Battleship,U.S.A.,PREM,"50,200",21,15.9,81,S,16.1,,0829
+830,Warspite,https://www.twtships.com/ship/4292818896,Battleship,United Kingdom,PREM,"53,800",23.5,13.8,79,A,16.3,,0830
+831,Weser,https://www.twtships.com/ship/4183799600,Aircraft carrier,Germany,STD,"40,800",32,11.7,56,B,,,0831
+832,Xin Zhong Guo 14,https://www.twtships.com/ship/3543577808,Submarine,Pan-Asia,PREM,"11,500",31,6.4,22,D,6,9,0832
+833,Acasta,https://www.twtships.com/ship/4184750032,Destroyer,United Kingdom,STD,"9,500",35,6.6,48,C,10.1,6,0833
+834,Agano,https://www.twtships.com/ship/4079924944,Cruiser,Japan,STD,"22,500",35,10.5,62,B,12.6,12,0834
+835,Agincourt,https://www.twtships.com/ship/3765385168,Battleship,United Kingdom,PREM,"48,400",22,11.9,76,A,15.3,,0835
+836,Antioquia,https://www.twtships.com/ship/4279121232,Destroyer,Pan-America,STD,"9,200",36,6.5,28,D,10.2,6,0836
+837,ARP Haruna,https://www.twtships.com/ship/3553572560,Battleship,Japan,PREM,"54,100",30,15.7,78,A,21.2,,0837
+838,ARP Hiei,https://www.twtships.com/ship/3552523984,Battleship,Japan,PREM,"54,100",30,15.7,78,A,21.2,,0838
+839,ARP Kirishima,https://www.twtships.com/ship/3554621136,Battleship,Japan,PREM,"54,100",30,15.7,78,A,21.2,,0839
+840,ARP Kong?,https://www.twtships.com/ship/3555669712,Battleship,Japan,PREM,"54,100",30,15.7,78,A,21.2,,0840
+841,Bretagne,https://www.twtships.com/ship/4184815440,Battleship,France,STD,"38,300",19.9,14.8,77,A,16.5,,0841
+842,Celebes,https://www.twtships.com/ship/4184782608,Cruiser,Netherlands,STD,"24,000",30.6,11.9,62,B,12.8,,0842
+843,Chungking,https://www.twtships.com/ship/4184782032,Cruiser,Pan-Asia,STD,"20,100",32.3,10,52,C,11.8,,0843
+844,Conte di Cavour,https://www.twtships.com/ship/4184815344,Battleship,Italy,STD,"37,000",22,12.8,87,S,14.6,,0844
+845,Delhi,https://www.twtships.com/ship/4279154032,Cruiser,Commonwealth,STD,"21,400",32.5,10.5,58,B,12.5,10,0845
+846,Derfflinger,https://www.twtships.com/ship/4079957808,Battleship,Germany,STD,"47,600",26.5,11.6,76,A,14.5,,0846
+847,Desert Falcon,https://www.twtships.com/ship/3345921744,Cruiser,Japan,PREM,"30,700",34.5,11.9,69,B,13.9,10,0847
+848,Emerald,https://www.twtships.com/ship/4184782800,Cruiser,United Kingdom,STD,"24,000",33,9.9,43,C,12.4,6,0848
+849,Exeter,https://www.twtships.com/ship/3765352400,Cruiser,United Kingdom,PREM,"29,400",32,10.7,70,A,14.3,8,0849
+850,Furutaka,https://www.twtships.com/ship/4289640144,Cruiser,Japan,STD,"28,300",34.5,11.9,64,B,12.6,6,0850
+851,F?jin,https://www.twtships.com/ship/4277024464,Destroyer,Japan,PREM,"11,100",37.5,6,45,C,8.7,7,0851
+852,Galicia,https://www.twtships.com/ship/4184782256,Cruiser,Spain,STD,"24,900",33,9.9,63,B,13.7,6,0852
+853,Genova,https://www.twtships.com/ship/3765352176,Cruiser,Italy,PREM,"30,100",34.5,11.5,79,A,14.3,8,0853
+854,Giulio Cesare,https://www.twtships.com/ship/3765384944,Battleship,Italy,PREM,"45,500",27,13.3,80,S,16.4,,0854
+855,Gremyashchy,https://www.twtships.com/ship/4293801424,Destroyer,U.S.S.R.,PREM,"13,100",37,6.8,51,C,11.9,8,0855
+856,Hawkins,https://www.twtships.com/ship/4079925200,Cruiser,United Kingdom,STD,"27,800",30,11.5,74,A,12.7,7,0856
+857,Hill,https://www.twtships.com/ship/3765319664,Destroyer,U.S.A.,PREM,"12,100",37.5,7.2,53,C,11.3,5.5,0857
+858,HSF Hiei,https://www.twtships.com/ship/3545183952,Battleship,Japan,PREM,"54,100",30,15.7,78,A,21.2,,0858
+859,Iron Duke,https://www.twtships.com/ship/4184815568,Battleship,United Kingdom,STD,"41,200",21,14.5,80,S,15.3,,0859
+860,Jaguar,https://www.twtships.com/ship/4184749904,Destroyer,France,STD,"12,800",35.5,7,53,C,11,7.5,0860
+861,Jianwei,https://www.twtships.com/ship/4184749264,Destroyer,Pan-Asia,STD,"10,600",37,6.6,48,C,9.9,,0861
+862,Kalmar,https://www.twtships.com/ship/3555603760,Destroyer,Europe,PREM,"9,600",39,6.3,44,C,9.7,10,0862
+863,Kamikaze,https://www.twtships.com/ship/4268635856,Destroyer,Japan,PREM,"11,100",37.5,6,45,C,8.7,7,0863
+864,Kamikaze R,https://www.twtships.com/ship/4267587280,Destroyer,Japan,PREM,"11,100",37.5,6,45,C,8.7,7,0864
+865,Kirov,https://www.twtships.com/ship/3744380368,Cruiser,U.S.S.R.,PREM,"26,200",35.5,13.8,70,A,16.3,4,0865
+866,Kong?,https://www.twtships.com/ship/4287575760,Battleship,Japan,STD,"49,500",24.9,15.7,77,A,19.3,,0866
+867,Kotovsky,https://www.twtships.com/ship/4069438928,Cruiser,U.S.S.R.,STD,"22,700",35.5,11,65,B,14.3,4,0867
+868,Kralj Petar I,https://www.twtships.com/ship/4279153968,Cruiser,Europe,SPEC,"20,100",32.3,9.7,52,C,11.8,8.5,0868
+869,Krasny Krym,https://www.twtships.com/ship/3765351888,Cruiser,U.S.S.R.,PREM,"25,100",29,13.3,60,B,14,5,0869
+870,König,https://www.twtships.com/ship/4184815408,Battleship,Germany,STD,"40,700",21.6,14.1,76,A,15,,0870
+871,Königsberg,https://www.twtships.com/ship/4184782640,Cruiser,Germany,STD,"22,600",32.5,12.1,66,B,15,6,0871
+872,L'Adroit,https://www.twtships.com/ship/4279121744,Destroyer,France,STD,"9,800",33,6.6,52,C,10.2,7.5,0872
+873,La Argentina,https://www.twtships.com/ship/4184782160,Cruiser,Pan-America,STD,"22,200",30,9.5,38,D,12.9,8,0873
+874,Maestrale,https://www.twtships.com/ship/4184749808,Destroyer,Italy,STD,"10,900",38,7,38,D,6.2,8,0874
+875,Marblehead,https://www.twtships.com/ship/4248745968,Cruiser,U.S.A.,PREM,"27,000",34,13.1,66,B,13.9,8.2,0875
+876,Marblehead Lima,https://www.twtships.com/ship/4247697392,Cruiser,U.S.A.,PREM,"27,000",34,13.1,66,B,13.9,8.2,0876
+877,Mikoyan,https://www.twtships.com/ship/3754866128,Cruiser,U.S.S.R.,PREM,"21,000",35.5,11.6,72,A,16.2,4,0877
+878,Minekaze,https://www.twtships.com/ship/4290655952,Destroyer,Japan,STD,"9,600",39,6,41,C,8.1,7,0878
+879,Muavenet,https://www.twtships.com/ship/4079891760,Destroyer,Europe,STD,"9,800",35.5,6.6,27,D,9.6,7,0879
+880,Murmansk,https://www.twtships.com/ship/4291737040,Cruiser,U.S.S.R.,PREM,"26,800",34,12.8,66,B,14.8,8,0880
+881,Mutsuki,https://www.twtships.com/ship/4184749776,Destroyer,Japan,STD,"9,500",37.5,6,36,D,8.1,8,0881
+882,New York,https://www.twtships.com/ship/4288624624,Battleship,U.S.A.,STD,"42,600",18.4,15.5,78,A,16.4,,0882
+883,Nicholas,https://www.twtships.com/ship/4280170480,Destroyer,U.S.A.,STD,"12,000",37,6.5,52,C,10.9,5.5,0883
+884,Okhotnik,https://www.twtships.com/ship/3765319120,Destroyer,U.S.S.R.,PREM,"12,700",34.5,6.3,50,C,9.2,4.5,0884
+885,Oklahoma,https://www.twtships.com/ship/3765385200,Battleship,U.S.A.,PREM,"48,200",19.7,13.1,75,A,17.1,,0885
+886,Oktyabrskaya Revolutsiya,https://www.twtships.com/ship/3765384656,Battleship,U.S.S.R.,PREM,"42,500",23,13.3,73,A,16.8,,0886
+887,Omaha,https://www.twtships.com/ship/4289640432,Cruiser,U.S.A.,STD,"23,100",34,13.1,59,B,13.8,5.5,0887
+888,Podvoisky,https://www.twtships.com/ship/4079891920,Destroyer,U.S.S.R.,STD,"11,700",42,7.1,54,C,9.5,6,0888
+889,Pyotr Velikiy,https://www.twtships.com/ship/4184815056,Battleship,U.S.S.R.,STD,"47,200",26.5,13.3,74,A,14.6,,0889
+890,Raimondo Montecuccoli,https://www.twtships.com/ship/4184782576,Cruiser,Italy,STD,"23,800",37,11.3,68,B,13.5,10,0890
+891,Rattlehead,https://www.twtships.com/ship/3765352432,Cruiser,U.S.A.,PREM,"27,000",34,13.1,66,B,13.9,8.2,0891
+892,Rio de Janeiro,https://www.twtships.com/ship/3765384528,Battleship,Pan-America,PREM,"48,400",22,14.3,79,A,16.1,,0892
+893,Siroco,https://www.twtships.com/ship/3766368080,Destroyer,France,PREM,"11,900",33,6.6,53,C,11.8,7,0893
+894,T-22,https://www.twtships.com/ship/4184749872,Destroyer,Germany,STD,"9,400",34.5,6.3,44,C,9.1,7,0894
+895,Tegetthoff,https://www.twtships.com/ship/4279186736,Battleship,Europe,STD,"35,300",20.5,12.4,76,A,15.1,8,0895
+896,Texas,https://www.twtships.com/ship/3555670000,Battleship,U.S.A.,PREM,"49,100",20.5,15.5,75,A,16.4,,0896
+897,Tiger,https://www.twtships.com/ship/4079957968,Battleship,United Kingdom,STD,"43,600",29,12.6,77,A,14.8,6,0897
+898,Viribus Unitis,https://www.twtships.com/ship/3766433072,Battleship,Europe,PREM,"35,700",20.5,12.1,76,A,16,,0898
+899,Visby,https://www.twtships.com/ship/4184749360,Destroyer,Europe,STD,"8,900",39,6.6,45,C,8.7,8,0899
+900,Yahagi,https://www.twtships.com/ship/3765352144,Cruiser,Japan,PREM,"25,700",35,11,63,B,14.9,12,0900
+901,Émile Bertin,https://www.twtships.com/ship/4184782672,Cruiser,France,STD,"21,100",39,12.2,59,B,13.6,6,0901
+902,Alberto di Giussano,https://www.twtships.com/ship/4185831152,Cruiser,Italy,STD,"19,300",36.5,10.8,61,B,12.6,8,0902
+903,Almirante Cervera,https://www.twtships.com/ship/4185830832,Cruiser,Spain,STD,"23,300",33,10.2,55,B,12.8,6,0903
+904,Arkansas Beta,https://www.twtships.com/ship/4281284592,Battleship,U.S.A.,PREM,"43,800",20.5,13.6,75,A,14.4,,0904
+905,Bourrasque,https://www.twtships.com/ship/4185798480,Destroyer,France,STD,"9,300",33,6.6,51,C,10.7,7.5,0905
+906,Clemson,https://www.twtships.com/ship/4274927600,Destroyer,U.S.A.,STD,"8,800",35,6.8,40,C,7.8,5,0906
+907,Courbet,https://www.twtships.com/ship/4185864016,Battleship,France,STD,"38,200",19.9,15.4,75,A,15.8,,0907
+908,Córdoba,https://www.twtships.com/ship/4185830736,Cruiser,Pan-America,STD,"18,900",29,8,35,D,11,6,0908
+909,Danae,https://www.twtships.com/ship/4185831376,Cruiser,United Kingdom,STD,"18,400",30,10.1,40,C,11.3,6,0909
+910,Dante Alighieri,https://www.twtships.com/ship/4185863920,Battleship,Italy,STD,"36,000",23,12.1,83,S,13.3,,0910
+911,DD 214,https://www.twtships.com/ship/3556653040,Destroyer,U.S.A.,PREM,"10,900",35,6.8,43,C,8.6,5.5,0911
+912,De Ruyter,https://www.twtships.com/ship/4185831184,Cruiser,Netherlands,STD,"21,500",32,11.7,61,B,12.6,,0912
+913,Dragon,https://www.twtships.com/ship/4280202544,Cruiser,Europe,SPEC,"18,900",29,7.8,53,C,11.5,,0913
+914,Duguay-Trouin,https://www.twtships.com/ship/4185831248,Cruiser,France,STD,"22,900",33,12.9,58,B,13.7,6,0914
+915,Dunedin,https://www.twtships.com/ship/4280202608,Cruiser,Commonwealth,STD,"18,200",29,10.1,53,C,12.4,6,0915
+916,Gangut,https://www.twtships.com/ship/4185863632,Battleship,U.S.S.R.,STD,"37,600",23,13.2,70,A,12.4,,0916
+917,Hermes,https://www.twtships.com/ship/4081039312,Aircraft carrier,United Kingdom,STD,"32,200",25,11.7,32,D,,,0917
+918,H?sh?,https://www.twtships.com/ship/4185896656,Aircraft carrier,Japan,STD,"31,000",25,8.6,32,D,,,0918
+919,Imperator Nikolai I,https://www.twtships.com/ship/4293866960,Battleship,U.S.S.R.,PREM,"44,800",21,12.4,71,A,14.1,,0919
+920,Ishizuchi,https://www.twtships.com/ship/4286527184,Battleship,Japan,PREM,"45,700",27.5,14.7,79,A,15.3,,0920
+921,Isokaze,https://www.twtships.com/ship/4291704528,Destroyer,Japan,STD,"9,000",34,5.9,40,C,9.7,7,0921
+922,Iwaki Alpha,https://www.twtships.com/ship/4267620048,Cruiser,Japan,PREM,"18,600",35,9.8,59,B,10.7,10,0922
+923,Izyaslav,https://www.twtships.com/ship/4185798096,Destroyer,U.S.S.R.,STD,"9,400",35,6.5,45,C,9.2,5,0923
+924,Kaiser,https://www.twtships.com/ship/4185863984,Battleship,Germany,STD,"39,900",22.3,13.8,75,A,14.5,,0924
+925,Karlsruhe,https://www.twtships.com/ship/4185831216,Cruiser,Germany,STD,"19,700",27.5,10.3,58,B,10.6,4,0925
+926,Klas Horn,https://www.twtships.com/ship/4185797936,Destroyer,Europe,STD,"7,900",37.8,6.6,42,C,8.6,8,0926
+927,Komsomolets,https://www.twtships.com/ship/4185896400,Aircraft carrier,U.S.S.R.,STD,"31,000",17,8.6,33,D,,,0927
+928,Kuma,https://www.twtships.com/ship/4281251536,Cruiser,Japan,STD,"23,000",34.5,11,62,B,11.7,7,0928
+929,Langley,https://www.twtships.com/ship/4185896944,Aircraft carrier,U.S.A.,STD,"33,300",15,9.8,34,D,,,0929
+930,Moltke,https://www.twtships.com/ship/4081006384,Battleship,Germany,STD,"37,600",28.4,10.5,72,A,13.5,,0930
+931,My?gi,https://www.twtships.com/ship/4291770064,Battleship,Japan,STD,"42,800",24.4,14.6,76,A,15.1,,0931
+932,Orion,https://www.twtships.com/ship/4185864144,Battleship,United Kingdom,STD,"38,600",19.8,14,79,A,14.4,,0932
+933,Phoenix,https://www.twtships.com/ship/4269717488,Cruiser,U.S.A.,STD,"21,300",35,12.8,55,B,13.9,5.5,0933
+934,Queen Mary,https://www.twtships.com/ship/4081006544,Battleship,United Kingdom,STD,"42,600",27.5,12.5,76,A,13.2,6,0934
+935,Rhein,https://www.twtships.com/ship/4185896752,Aircraft carrier,Germany,STD,"31,500",26,9.3,40,C,,,0935
+936,Serrano,https://www.twtships.com/ship/4280169808,Destroyer,Pan-America,STD,"8,300",35,6.3,26,D,9.5,6,0936
+937,Shenyang,https://www.twtships.com/ship/4185797840,Destroyer,Pan-Asia,STD,"9,400",39,6.3,49,C,8.8,,0937
+938,Svietlana,https://www.twtships.com/ship/4185830864,Cruiser,U.S.S.R.,STD,"22,100",29,9.6,46,C,10.2,5,0938
+939,Turbine,https://www.twtships.com/ship/4185798384,Destroyer,Italy,STD,"8,300",33,6.3,36,D,5.7,8,0939
+940,V-170,https://www.twtships.com/ship/4185798448,Destroyer,Germany,STD,"9,100",35.5,6.1,44,C,8.2,7,0940
+941,Wakeful,https://www.twtships.com/ship/4185798608,Destroyer,United Kingdom,STD,"8,400",35,6.3,43,C,9.8,6,0941
+942,Wyoming,https://www.twtships.com/ship/4290721776,Battleship,U.S.A.,STD,"41,500",18,13.6,73,A,14.4,,0942
+943,Yavuz Sultan Selim,https://www.twtships.com/ship/4280235312,Battleship,Europe,STD,"33,600",25.5,11.4,73,A,14.8,6,0943
+944,Y?bari,https://www.twtships.com/ship/4290688720,Cruiser,Japan,PREM,"18,700",34.5,9.6,59,B,12.8,6,0944
+945,AL Avrora,https://www.twtships.com/ship/3746477520,Cruiser,U.S.S.R.,PREM,"22,500",19,10.3,53,C,11.2,,0945
+946,Almirante Villar,https://www.twtships.com/ship/4281218384,Destroyer,Pan-America,STD,"9,300",34,5.9,24,D,10.1,6,0946
+947,Aurora,https://www.twtships.com/ship/4293834192,Cruiser,U.S.S.R.,PREM,"22,500",19,10.3,53,C,11.2,,0947
+948,Bellerophon,https://www.twtships.com/ship/4186912720,Battleship,United Kingdom,STD,"33,400",20.4,13.3,75,A,13.7,,0948
+949,Bogatyr,https://www.twtships.com/ship/4186879440,Cruiser,U.S.S.R.,STD,"20,500",24,10,53,C,10.3,,0949
+950,Caledon,https://www.twtships.com/ship/4186879952,Cruiser,United Kingdom,STD,"17,500",29,9.8,32,D,10.8,6,0950
+951,Campbeltown,https://www.twtships.com/ship/3767416784,Destroyer,United Kingdom,PREM,"8,900",35,6.5,40,C,9.2,7.5,0951
+952,Caradoc,https://www.twtships.com/ship/4281251184,Cruiser,Commonwealth,STD,"16,900",29,9.8,52,C,11.8,6,0952
+953,Charleston,https://www.twtships.com/ship/3767449584,Cruiser,U.S.A.,PREM,"29,500",22,10.7,64,B,12.4,,0953
+954,Derzki,https://www.twtships.com/ship/4186846672,Destroyer,U.S.S.R.,STD,"8,600",34,5.9,40,C,8.1,5,0954
+955,Dreadnought,https://www.twtships.com/ship/3767482320,Battleship,United Kingdom,PREM,"37,400",21,11.9,76,A,13.7,,0955
+956,Friant,https://www.twtships.com/ship/4186879824,Cruiser,France,STD,"18,900",30,11,51,C,11.7,6,0956
+957,Fusilier,https://www.twtships.com/ship/4186847056,Destroyer,France,STD,"7,900",34,6.5,41,C,9.5,7.5,0957
+958,G-101,https://www.twtships.com/ship/4186847024,Destroyer,Germany,STD,"8,300",33.5,6.5,44,C,8.2,6,0958
+959,Indefatigable,https://www.twtships.com/ship/4082055120,Battleship,United Kingdom,STD,"32,900",25.8,12.5,72,A,13.3,6,0959
+960,Java,https://www.twtships.com/ship/4186879760,Cruiser,Netherlands,STD,"21,600",30,9.4,54,C,11.6,,0960
+961,Katori,https://www.twtships.com/ship/3767449296,Cruiser,Japan,PREM,"22,000",18,10.7,59,B,13.5,7,0961
+962,Kawachi,https://www.twtships.com/ship/4293867216,Battleship,Japan,STD,"35,800",18.4,9.3,69,B,9.9,,0962
+963,Knyaz Suvorov,https://www.twtships.com/ship/4186912208,Battleship,U.S.S.R.,STD,"35,600",22,11.4,68,B,11.5,,0963
+964,Kolberg,https://www.twtships.com/ship/4186879792,Cruiser,Germany,STD,"17,200",27,9.4,50,C,10.1,,0964
+965,König Albert,https://www.twtships.com/ship/3767482160,Battleship,Germany,PREM,"41,300",21,11.2,73,A,11.9,,0965
+966,Nassau,https://www.twtships.com/ship/4186912560,Battleship,Germany,STD,"33,100",18.8,10.1,70,A,10.8,,0966
+967,Navarra,https://www.twtships.com/ship/4186879408,Cruiser,Spain,STD,"19,600",25,9.6,54,C,11,,0967
+968,Nazario Sauro,https://www.twtships.com/ship/4186846960,Destroyer,Italy,STD,"8,900",35,6.2,35,D,5.6,8,0968
+969,Ning Hai,https://www.twtships.com/ship/3767448784,Cruiser,Pan-Asia,PREM,"13,800",21.3,9.9,60,B,12.7,7,0969
+970,Oleg,https://www.twtships.com/ship/3767449040,Cruiser,U.S.S.R.,PREM,"24,100",24,10,54,C,10.8,,0970
+971,Phra Ruang,https://www.twtships.com/ship/4186846416,Destroyer,Pan-Asia,STD,"7,900",36,5.6,36,D,7.9,,0971
+972,Romulus,https://www.twtships.com/ship/4186846512,Destroyer,Europe,STD,"6,800",34,6,38,D,8.6,8,0972
+973,South Carolina,https://www.twtships.com/ship/4293867504,Battleship,U.S.A.,STD,"29,000",15.8,13.4,72,A,14.2,,0973
+974,St. Louis,https://www.twtships.com/ship/4290689008,Cruiser,U.S.A.,STD,"27,300",22,10.7,56,B,11.3,,0974
+975,Taranto,https://www.twtships.com/ship/4186879728,Cruiser,Italy,STD,"17,600",28.2,9.1,58,B,10.3,4,0975
+976,Tenry?,https://www.twtships.com/ship/4279154384,Cruiser,Japan,STD,"15,100",32.5,8,58,B,11.2,7,0976
+977,Turenne,https://www.twtships.com/ship/4186912592,Battleship,France,STD,"34,400",19.3,11,71,A,11.3,,0977
+978,Valkyrie,https://www.twtships.com/ship/4186847184,Destroyer,United Kingdom,STD,"8,600",34,6.1,43,C,9.8,6,0978
+979,Vampire,https://www.twtships.com/ship/3767416176,Destroyer,Commonwealth,PREM,"9,500",34,6.3,42,C,10.1,6,0979
+980,Varyag,https://www.twtships.com/ship/3756963280,Cruiser,U.S.S.R.,PREM,"22,400",25,10.7,56,B,11,,0980
+981,Vicente Guerrero,https://www.twtships.com/ship/4186879312,Cruiser,Pan-America,STD,"19,600",25,9.6,35,D,11,,0981
+982,Von der Tann,https://www.twtships.com/ship/4082054960,Battleship,Germany,STD,"33,800",27.5,10.1,69,B,11.6,,0982
+983,Wakatake,https://www.twtships.com/ship/4269684432,Destroyer,Japan,STD,"7,300",35.5,5.9,41,C,9.4,7,0983
+984,Wickes,https://www.twtships.com/ship/4266538992,Destroyer,U.S.A.,STD,"8,100",34,6.5,40,C,8.4,5,0984
+985,Albany,https://www.twtships.com/ship/4291737584,Cruiser,U.S.A.,PREM,"16,500",20,8.6,36,D,9.2,,0985
+986,Almirante Abreu,https://www.twtships.com/ship/3768497488,Cruiser,Pan-America,PREM,"16,500",20,8.6,36,D,9.2,,0986
+987,Almirante Barroso,https://www.twtships.com/ship/4187927888,Cruiser,Pan-America,STD,"15,300",20.2,8.6,36,D,9.2,,0987
+988,Chester,https://www.twtships.com/ship/4292786160,Cruiser,U.S.A.,STD,"15,100",24,8.2,28,D,9.2,,0988
+989,Chikuma,https://www.twtships.com/ship/4258182864,Cruiser,Japan,STD,"17,300",26,8.9,31,D,9.3,,0989
+990,Curtatone,https://www.twtships.com/ship/4187895536,Destroyer,Italy,STD,"7,600",32,6.1,22,D,5.5,6,0990
+991,Diana,https://www.twtships.com/ship/4292785616,Cruiser,U.S.S.R.,PREM,"22,100",19,10.5,38,D,11.8,,0991
+992,Diana Lima,https://www.twtships.com/ship/4284397008,Cruiser,U.S.S.R.,PREM,"22,100",19,10.5,38,D,11.8,,0992
+993,Dresden,https://www.twtships.com/ship/4292785968,Cruiser,Germany,STD,"15,800",25,9.3,33,D,9.9,,0993
+994,Emden,https://www.twtships.com/ship/3768497968,Cruiser,Germany,PREM,"17,100",24,9.3,33,D,9.9,,0994
+995,Enseigne Gabolde,https://www.twtships.com/ship/4187895632,Destroyer,France,STD,"7,000",31,5.8,20,D,8.9,7,0995
+996,Gelderland,https://www.twtships.com/ship/4187928336,Cruiser,Netherlands,STD,"16,600",20,8,30,D,11.3,,0996
+997,Jurien de la Gravière,https://www.twtships.com/ship/4187928400,Cruiser,France,STD,"19,600",23,8.7,41,C,9.3,,0997
+998,Longjiang,https://www.twtships.com/ship/4187894992,Destroyer,Pan-Asia,STD,"6,900",36,5.2,19,D,7.7,,0998
+999,Medea,https://www.twtships.com/ship/4187895760,Destroyer,United Kingdom,STD,"8,000",32,5.2,19,D,8,6,0999
+1000,Mikasa,https://www.twtships.com/ship/4283381456,Battleship,Japan,PREM,"31,200",18,11.2,66,B,11.8,,1000
+1001,Méndez Núñez,https://www.twtships.com/ship/4187927984,Cruiser,Spain,STD,"20,800",29,8.4,46,C,10.7,,1001
+1002,Nino Bixio,https://www.twtships.com/ship/4187928304,Cruiser,Italy,STD,"15,500",26.8,7.9,23,D,10.3,,1002
+1003,Novik,https://www.twtships.com/ship/4187928016,Cruiser,U.S.S.R.,STD,"13,800",25,8.8,28,D,9.2,,1003
+1004,Port Jackson,https://www.twtships.com/ship/4282299760,Cruiser,Commonwealth,STD,"19,100",26,10,35,D,11.2,,1004
+1005,Sampson,https://www.twtships.com/ship/4292753392,Destroyer,U.S.A.,STD,"8,500",29.5,5.8,20,D,7.8,5,1005
+1006,Smith,https://www.twtships.com/ship/3768465392,Destroyer,U.S.A.,PREM,"7,300",28,5.6,11,D,6.5,4.5,1006
+1007,Storozhevoi,https://www.twtships.com/ship/4187895248,Destroyer,U.S.S.R.,STD,"7,100",35,5.6,20,D,9.7,4,1007
+1008,Tachibana,https://www.twtships.com/ship/4293801680,Destroyer,Japan,PREM,"7,000",30,5.2,31,D,8,5,1008
+1009,Tachibana Lima,https://www.twtships.com/ship/4280170192,Destroyer,Japan,PREM,"7,000",30,5.2,31,D,8,5,1009
+1010,Tátra,https://www.twtships.com/ship/4187895088,Destroyer,Europe,STD,"7,100",32.5,6,17,D,8.3,8,1010
+1011,Umikaze,https://www.twtships.com/ship/4292753104,Destroyer,Japan,STD,"8,600",33,5.4,22,D,8,5,1011
+1012,V-25,https://www.twtships.com/ship/4187895600,Destroyer,Germany,STD,"6,900",36,5.2,13,D,7.6,5,1012
+1013,Weymouth,https://www.twtships.com/ship/4187928528,Cruiser,United Kingdom,STD,"19,100",26,10,28,D,10.6,,1013
+1014,Black Swan,https://www.twtships.com/ship/4188977104,Cruiser,United Kingdom,STD,"6,450",19,6.8,14,D,8.7,,1014
+1015,Bougainville,https://www.twtships.com/ship/4188976976,Cruiser,France,STD,"7,400",19,8,27,D,9.5,,1015
+1016,Chengan,https://www.twtships.com/ship/4188976336,Cruiser,Pan-Asia,STD,"4,900",19,5.9,22,D,8.5,,1016
+1017,Erie,https://www.twtships.com/ship/4293834736,Cruiser,U.S.A.,STD,"4,950",20,8,28,D,9.6,,1017
+1018,Eritrea,https://www.twtships.com/ship/4188976880,Cruiser,Italy,STD,"8,100",20,6.6,22,D,9.9,,1018
+1019,Gryf,https://www.twtships.com/ship/4188976432,Cruiser,Europe,STD,"7,550",20,7.2,29,D,10.7,,1019
+1020,Hashidate,https://www.twtships.com/ship/4256085712,Cruiser,Japan,STD,"5,150",19.5,7.5,19,D,9.1,,1020
+1021,Hermelin,https://www.twtships.com/ship/4293834544,Cruiser,Germany,STD,"4,500",24,8.4,21,D,9.9,,1021
+1022,Hércules,https://www.twtships.com/ship/4188976464,Cruiser,Pan-America,STD,"6,300",20.3,6.4,17,D,8.8,,1022
+1023,Júpiter,https://www.twtships.com/ship/4188976560,Cruiser,Spain,STD,"7,400",18.5,7.3,19,D,9.1,,1023
+1024,Orlan,https://www.twtships.com/ship/4188976592,Cruiser,U.S.S.R.,STD,"4,550",25,7.7,20,D,9.7,,1024
+1025,Sutlej,https://www.twtships.com/ship/4293834096,Cruiser,Commonwealth,STD,"6,450",19,6.8,14,D,8.5,,1025
+1026,Van Kinsbergen,https://www.twtships.com/ship/4188976912,Cruiser,Netherlands,STD,"7,100",25.5,8.6,32,D,11.4,,1026
